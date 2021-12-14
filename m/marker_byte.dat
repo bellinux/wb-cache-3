@@ -1,0 +1,5 @@
+2|1|Public
+50|$|Any {{symbol that}} is not a <b>marker</b> <b>byte</b> is {{considered}} a literal byte, and will be copied as is to the decompressed data buffer. However, if the decoder encounters any of the four marker bytes, it will decode a length-distance pair that is used as a back reference into the previously decompressed data.|$|E
+50|$|A PCX file has {{space in}} its header for a 16 color palette. When 256-color VGA {{hardware}} became available {{there was not}} enough space for the palette in a PCX file; even the 54 unused bytes after the header would not be enough. The solution chosen was to put the palette {{at the end of the}} file, along with a <b>marker</b> <b>byte</b> to confirm its existence.|$|E
+5000|$|The <b>marker</b> <b>bytes</b> are {{interpreted}} as follows (% denotes a binary number): ...|$|R
+

@@ -1,0 +1,3 @@
+1|0|Public
+50|$|Color64 is a {{computer}} BBS system that was very popular for the Commodore 64 during the 1980s. It was written by Greg Pfountz. Color64 was advanced for its time. The I/O was all written in machine language. It was also composed in modules, each written in BASIC. Each module would be loaded into memory as a user went {{from one part of}} the system to another. For example, the login module was what handled the answering of the phone and the verification of <b>login</b> <b>info.</b> It would then load the main menu module. Going into the message boards would load the message board module. Online games worked the same way.|$|E
+

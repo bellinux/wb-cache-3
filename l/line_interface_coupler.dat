@@ -1,0 +1,37 @@
+0|976|Public
+50|$|The {{player is}} {{assisted}} by yet another voiced computer situated in its starship {{in orbit around}} the planet. The AINIC(Artificial Intelligence Network <b>Interface</b> <b>Coupler)</b> Mark 3, as it calls itself, provides all mission summaries, briefings and mid-mission updates with a full voiced backing, and {{is presented as a}} self-aware computer entity.|$|R
+50|$|Mausezahn allows {{sending an}} {{arbitrary}} sequence of bytes {{directly out of}} the network interface card. An integratedpacket builder provides a simple command <b>line</b> <b>interface</b> for more complicated packets. Since version 0.38, Mausezahn offers a multi-threaded mode with Cisco-style command <b>line</b> <b>interface.</b>|$|R
+5000|$|The Sigma 7611 Character Oriented Communications {{subsystem}} (COC) supports one {{to seven}} <b>Line</b> <b>Interface</b> Units (LIUs). Each LIU can have one to eight <b>line</b> <b>interfaces</b> capable of operating in simplex, half-duplex, or full-duplex mode. The COC was [...] "intended for low to medium speed character oriented data transmissions." ...|$|R
+5000|$|ESSCMD, the {{original}} command <b>line</b> <b>interface</b> for administration commands; ...|$|R
+5000|$|Command <b>line</b> <b>interface</b> for {{scripting}} automation and headless operation ...|$|R
+5000|$|... #Subtitle level 2: Command <b>line</b> <b>interfaces</b> and text-based shells ...|$|R
+5000|$|... #Subtitle level 2: Completion in {{different}} command <b>line</b> <b>interfaces</b> ...|$|R
+5000|$|... #Subtitle level 3: Graphical {{front-ends}} {{and command}} <b>line</b> <b>interfaces</b> ...|$|R
+30|$|Command <b>line</b> <b>interface.</b> A terminal-based command <b>line</b> <b>interface</b> {{provides}} a way to monitor the status of all hardware components and offers a mechanism to control the system directly at a low level. Although not needed by or intended for end users, this application is useful for software developers and maintenance technicians.|$|R
+5000|$|Automation (via Packet Sender's command <b>line</b> <b>interface</b> or resend feature) ...|$|R
+5000|$|Launch {{a command}} <b>line</b> <b>interface</b> {{with or without}} further {{arguments}} ...|$|R
+5000|$|JBoss - Application Server's CLI (command <b>line</b> <b>interface)</b> {{scripting}} using Jython ...|$|R
+5000|$|In computing, [...] ({{directory}}) is {{a command}} used for file and directory listing, {{specifically in the}} command <b>line</b> <b>interface</b> (CLI) of the operating systems CP/M, DOS, OS/2, Singularity, Microsoft Windows and in the DCL command <b>line</b> <b>interface</b> usedon VMS, RT-11 and RSX-11. The command is also supplied with OS/8 as a CUSP (Commonly-Used System Program).|$|R
+5000|$|All {{web based}} <b>interface</b> with command <b>line</b> <b>interface</b> and web {{services}} API.|$|R
+5000|$|The <b>line</b> <b>interface</b> {{consists}} of:SOUT, SIN, /RTS, /DTR, DSR, /DCD, /CTS, /RI ...|$|R
+50|$|Application {{programs}} (as {{opposed to}} operating systems) {{may also have}} command <b>line</b> <b>interfaces.</b>|$|R
+5000|$|... #Caption: FreeDOS {{screenshot}} {{showing the}} command <b>line</b> <b>interface,</b> directory structure and version information ...|$|R
+50|$|A command {{shell is}} a command <b>line</b> <b>interface</b> {{computer}} program to an operating system.|$|R
+50|$|Open API: YesHas {{a command}} <b>line</b> <b>interface</b> for using main {{features}} in batch mode.|$|R
+5000|$|A {{range of}} command <b>line</b> <b>interface</b> options, {{allowing}} for scheduled defragmentation with administrator scripts; ...|$|R
+5000|$|It {{is used in}} {{the command}} <b>line</b> <b>interface</b> with {{programs}} made for that interface.|$|R
+5000|$|MIN command <b>line</b> <b>interface</b> - allows {{to execute}} test cases {{directly}} from command line ...|$|R
+5000|$|... feh is a {{lightweight}} image viewer aimed mainly at users of command <b>line</b> <b>interfaces.</b>|$|R
+50|$|Operating system (OS) command <b>line</b> <b>interfaces</b> {{are usually}} {{distinct}} programs supplied with the operating system.|$|R
+5000|$|AmigaDOS [...] - Command <b>Line</b> <b>Interface</b> (CLI) {{functionality}} and {{a number}} of core CLI commands ...|$|R
+5000|$|... #Caption: PC DOS was {{an early}} {{personal}} computer OS that featured a command <b>line</b> <b>interface.</b>|$|R
+50|$|CRaSH is {{included}} as a Command <b>Line</b> <b>Interface</b> in the last release of eXo Platform v4.0.0.|$|R
+5000|$|Railo 4.x {{introduces}} a command <b>line</b> <b>interface</b> (CLI) that allows executing CFML scripts from the command line ...|$|R
+5000|$|... send-pr / edit-pr / query-pr: The {{traditional}} command <b>line</b> <b>interface</b> to create, edit, and query Problem Reports ...|$|R
+5000|$|Command <b>line</b> <b>interface,</b> {{graphical}} user configuration interfaces through Web pages {{or traditional}} SNMP (Simple Network Management Protocol) management.|$|R
+5000|$|... mpc (part of the MPD project) is {{a simple}} command <b>line</b> <b>interface</b> {{to most of the}} server's functions.|$|R
+50|$|Although {{graphical}} interfaces {{have typically}} followed command <b>line</b> <b>interfaces,</b> ^txt2regex$ {{is unusual in}} providing a command <b>line</b> <b>interface</b> for a function usually, and previously, provided {{by means of a}} graphical user interface. It is also unusual in interacting with the user to facilitate the use of what is generally regarded as a technical tool unsuitable for naive users and in supporting multiple regular expression notations. ^txt2regex$ is a bash script.|$|R
+5000|$|An {{application}} program may support none, any, {{or all of}} these three major types of command <b>line</b> <b>interface</b> mechanisms: ...|$|R
+2500|$|... kpcli, {{a command}} <b>line</b> <b>interface</b> to KeePass {{database}} files, written in Perl {{and with a}} familiar Unix shell-style user interface.|$|R
+5000|$|... {{is a set}} of user-space {{tools for}} Linux that allow system administrators to {{interact}} with the Connection Tracking entries and tables. The package includes the [...] daemon and the command <b>line</b> <b>interface</b> [...] The userspace daemon [...] can be used to enable high availability cluster-based stateful firewalls and collect statistics of the stateful firewall use. The command <b>line</b> <b>interface</b> [...] provides a more flexible interface to the connection tracking system than the obsolete /proc/net/nf_conntrack.|$|R
+25|$|Octave {{includes}} a Graphical User Interface (GUI) {{in addition to}} the traditional Command <b>Line</b> <b>Interface</b> (CLI); see User interfaces for details.|$|R

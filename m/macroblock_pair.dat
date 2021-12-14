@@ -1,0 +1,4 @@
+1|1|Public
+5000|$|Macroblock-adaptive frame-field (MBAFF) coding, using a <b>macroblock</b> <b>pair</b> {{structure}} for pictures coded as frames, allowing 16×16 macroblocks in field mode (compared with MPEG-2, where field mode processing {{in a picture}} that is coded as a frame results in the processing of 16×8 half-macroblocks).|$|E
+50|$|Where MaxDpbMbs is a {{constant}} value provided in the table below {{as a function of}} level number, and PicWidthInMbs and FrameHeightInMbs are the picture width and frame height for the coded video data, expressed in units of macroblocks (rounded up to integer values and accounting for cropping and <b>macroblock</b> <b>pairing</b> when applicable). This formula is specified in sections A.3.1.h and A.3.2.f of the 2009 edition of the standard.|$|R
+

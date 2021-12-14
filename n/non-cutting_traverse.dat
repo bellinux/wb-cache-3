@@ -1,0 +1,3 @@
+1|0|Public
+40|$|Abstract. The {{focus of}} CAM systems is on {{effectively}} creating cutting tool paths. However, collision risk {{is very high}} on multi axes machines when performing <b>non-cutting</b> <b>traverse</b> moves. If available, CAM systems offer limited setting options for non-cutting tool moves. In this paper an approach is presented that allows to automatically generating non-cutting tool paths. Process planners {{will not only be}} released from developing and simulating time-consuming multi axes traverse moves. The automatically calculated traverse moves will also machine-specifically optimized with respect to various optimization criteria...|$|E
+

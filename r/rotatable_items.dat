@@ -1,0 +1,3 @@
+1|0|Public
+40|$|AbstractIn {{two-dimensional}} bin packing problems, {{the input}} items are rectangles which {{need to be}} packed in a non-overlapping manner. The goal is to assign the items into unit squares using an axis-parallel packing. Most previous work on online packing concentrated on items of fixed orientation, which must be assigned such that their bottom side {{is parallel to the}} bottom of the bin. In this paper we study the case of <b>rotatable</b> <b>items,</b> which can be rotated by ninety degrees. We give almost tight bounds on the (asymptotic) competitive ratio of bounded space bin packing of <b>rotatable</b> <b>items,</b> and introduce a new unbounded space algorithm. This improves the results of Fujita and Hada...|$|E
+

@@ -1,0 +1,3 @@
+1|0|Public
+40|$|S u m m a r y. Robot sensor {{operation}} {{is presented as}} the processing of some grammar of attributes. Words defi ned in the grammar are signals from the sensing elements of the sensor system. Processing of these words is executed by a translator modelled by an automaton with <b>LIFO</b> <b>memory.</b> This method of processing robot sensor signals enables {{the design of the}} system software. The software structure is independent of system appli-cation. The proposed method of organization of robot sensor op-eration software is also useful for the automation of its designing. K e y w o r d s: grammar of attributes, sensor, translato...|$|E
+

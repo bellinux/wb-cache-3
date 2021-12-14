@@ -1,0 +1,6 @@
+4|0|Public
+5000|$|This service {{provides}} for the confidentiality of all (<b>N)-user-data</b> on an (N)-connection ...|$|E
+5000|$|This service {{provides}} for the confidentiality of all (<b>N)-user-data</b> in a single connectionless (N)-SDU ...|$|E
+50|$|This service {{provides}} for the confidentiality of selected fields within the (<b>N)-user-data</b> on an (N)-connection or in a single connectionless (N)-SDU.|$|E
+50|$|This service {{provides}} for the integrity of all (<b>N)-user-data</b> on an (N)-connection and detects any modification, insertion, deletion or replay of any data within an entire SDU sequence (with recovery attempted).|$|E
+

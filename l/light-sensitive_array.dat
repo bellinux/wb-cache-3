@@ -1,0 +1,4 @@
+1|1|Public
+40|$|We {{report on}} the first silicon-integrated 2 -D <b>light-sensitive</b> <b>array</b> {{equipped}} with complementary-metal-oxide-semiconductor addressing and readout electronics and operating in the near infrared. The chip includes 64 x 8 pixels, 64 analog-to-digital converters, cancellation circuitry for dark current, and facilities for test/calibration. We describe its architecture and fabrication, its electronic and optoelectronic characterization, {{as well as its}} operation as a near-infrared camera...|$|E
+40|$|Detector {{combines}} {{liquid crystal}} film with <b>light-sensitive</b> solid-state <b>array.</b> Liquid-crystal film acts as IR detector when maintained just below temperature of transition from opacity to transparancey. When IR radiation is absorbed by film, resultant heating changes visiblelight transmission, modulating uniform visible light beam {{as it passes}} through film...|$|R
+

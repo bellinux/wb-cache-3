@@ -1,0 +1,3 @@
+1|0|Public
+40|$|Presents a two chip {{imaging system}} for optical {{character}} recognition (OCR) applications. It consists of a 64 * 24 photodiode array providing directly a binary pattern. The image quality is enhanced {{by means of a}} separate signal processing chip which performs centering of the image and delivers control signals for further on-line character recognition. The two chips are part of a fully integrated <b>OCR</b> <b>wand.</b> Anglai...|$|E
+

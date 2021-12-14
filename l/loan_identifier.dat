@@ -1,0 +1,3 @@
+1|0|Public
+40|$|A Reference Pool Disclosure File will be {{disclosed}} {{at the time}} of Reference Pool formation and monthly. This file format applies to the formation and monthly file. Information is reported by Reference Pool Number then by a <b>Loan</b> <b>Identifier.</b> The Reference Pool Disclosure File combines several different types of records within a single file. The first field in each record indicates the type of information contained in the record as described below...|$|E
+

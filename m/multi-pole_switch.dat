@@ -1,0 +1,4 @@
+1|1|Public
+5000|$|The mercury drop forms {{a common}} electrode, so {{circuits}} are not isolated {{from each other}} in a <b>multi-pole</b> <b>switch.</b>|$|E
+50|$|KVM {{switches}} {{were originally}} passive, mechanical devices based on <b>multi-pole</b> <b>switches</b> {{and some of}} the cheapest devices on the market still use this technology. Mechanical switches usually have a rotary knob to select between computers. KVMs typically allow sharing of two or four computers, with a practical limit of about twelve machines imposed by limitations on available switch configurations. Modern hardware designs use active electronics rather than physical switch contacts with the potential to control many computers on a common system backbone.|$|R
+

@@ -1,0 +1,4 @@
+2|0|Public
+50|$|As {{designed}} by Director of Engineering William L. Gordon, the H200 memory consisted of individually addressed characters, each composed of six data bits, two <b>punctuation</b> <b>bits</b> and a parity bit. The two <b>punctuation</b> <b>bits</b> recorded a word mark and an item mark, while both being set constituted a record mark. The item bit permitted item moves and record moves {{in addition to}} word moves (move successive characters one-by-one starting at the addresses given in the instruction, stopping when the relevant punctuation mark was found set in either field).|$|E
+50|$|IO {{instructions}} left <b>punctuation</b> <b>bits</b> unchanged, {{reading or}} writing only data (and parity) bits into memory, and terminating on any record mark encountered. A record mark {{could be placed}} {{at the end of}} an input buffer to prevent any buffer overflow, a problem that was to persist in many other systems into the 21st century.|$|E
+

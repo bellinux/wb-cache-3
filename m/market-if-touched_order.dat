@@ -1,0 +1,4 @@
+2|2|Public
+5000|$|A sell <b>market-if-touched</b> <b>order</b> is {{an order}} to sell at the best {{available}} price, if the market price goes up to the [...] "if touched" [...] level. As soon as this trigger price is touched the order becomes a market sell order.|$|E
+25|$|There is a close-in-price {{rule for}} limit orders, {{which must be}} within 24 ticks of the current price. Individual brokers may impose an even stricter rule; for instance, HSBC {{requires}} limit orders to be within 10 ticks of the current price. Broker support for triggered order types such as <b>market-if-touched</b> <b>orders</b> would allow placing orders further away, which {{would be sent to}} the exchange when the price condition was established.|$|R
+

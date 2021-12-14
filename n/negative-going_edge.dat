@@ -1,0 +1,4 @@
+1|1|Public
+50|$|The on-time marker, {{the exact}} moment which the time code identifies, is the leading (<b>negative-going)</b> <b>edge</b> of the frame {{reference}} marker. Thus the time code is always transmitted in the minute immediately after the moment it represents, and matches the hours and minutes {{of the time of}} day a clock should be displaying at that moment in UTC (before any time zone or daylight saving offsets are applied).|$|E
+40|$|A new dual-slope triangular/square wave {{generator}} is presented. The circuit uses few active and passive components {{and can be}} easily integrated. Experimental results obtained from a breadboard implementation, using discrete transistors, show that by using a grounded resistor the frequency of oscillation can be tuned in the range 1. 7 kHz– 3. 5 kHz without disturbing the slopes the positive-going and the <b>negative-going</b> <b>edges</b> of the triangular wave. 1...|$|R
+

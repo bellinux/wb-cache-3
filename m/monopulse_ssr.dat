@@ -1,0 +1,3 @@
+1|0|Public
+5000|$|Lincoln Laboratory {{exploited}} {{the availability of}} a separate bearing measurement on each reply pulse to overcome some of the problems of garble whereby two replies overlap making associating the pulses with the two replies. Since each pulse is separately labelled with direction this information can be used to unscramble two overlapping mode A or C replies. The process is presented in ATC-65 [...] "The ATCRBS Mode of DABS". The approach can be taken further by also measuring the strength of each reply pulse and using that as a discriminate as well. [...] The following table compares the performance of conventional SSR, <b>monopulse</b> <b>SSR</b> (MSSR) and Mode S.|$|E
+

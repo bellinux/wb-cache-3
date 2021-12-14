@@ -1,0 +1,37 @@
+163|439|Public
+5|$|In February 2011, Juniper {{introduced}} QFabric, a <b>proprietary</b> <b>protocol</b> {{methodology for}} transferring data over a network using a single network layer. Several individual {{products for the}} QFabric methodology were released throughout the year. In October 2013, Juniper introduced another network architecture called MetaFabric and {{a new set of}} switches, the QFX5100 family, as one of the foundations of the new architecture.|$|E
+25|$|Remote Desktop Protocol (RDP) is a <b>proprietary</b> <b>protocol</b> {{developed}} by Microsoft, {{which provides a}} user with a graphical interface to connect to another computer over a network connection. The user employs RDP client software for this purpose, while the other computer must run RDP server software.|$|E
+2500|$|Firefox also {{implements}} a <b>proprietary</b> <b>protocol</b> from Google called [...] "Safe Browsing", used {{to exchange}} data related with phishing and malware protection.|$|E
+5000|$|Support {{for over}} 300 public and Microsoft <b>proprietary</b> <b>protocols</b> ...|$|R
+5000|$|Transitions Army {{networks}} from <b>proprietary</b> <b>protocols</b> to Everything Over Internet Protocol ...|$|R
+50|$|However, RF modules {{are also}} {{frequently}} used in <b>proprietary</b> <b>protocols,</b> {{such as a}} garage door opener.|$|R
+2500|$|When {{visiting a}} site, Opera {{displays}} a security badge in the address bar which shows {{details about the}} website, including security certificates. Opera also implements a <b>proprietary</b> <b>protocol</b> from Google called [...] "Safe Browsing" [...] to check the website that is being visited against blacklists for phishing and malware, and displays a warning page if it matches any of these lists.|$|E
+2500|$|Many mailbox {{providers}} are also access providers, {{while others are}} not (e.g., Yahoo! Mail, Outlook.com, Gmail, AOL Mail, Po box). [...] The definition given in RFC 6650 covers email hosting services, {{as well as the}} relevant department of companies, universities, organizations, groups, and individuals that manage their mail servers themselves. [...] The task is typically accomplished by implementing Simple Mail Transfer Protocol (SMTP) and possibly providing access to messages through Internet Message Access Protocol (IMAP), the Post Office Protocol, Webmail, or a <b>proprietary</b> <b>protocol.</b>|$|E
+50|$|The Skype {{protocol}} is a <b>proprietary</b> <b>protocol.</b>|$|E
+50|$|He has {{analysed}} complex <b>proprietary</b> <b>protocols</b> and algorithms, {{to allow}} compatible {{free and open}} source software implementations.|$|R
+50|$|Other {{commercial}} offerings use <b>proprietary</b> <b>protocols</b> {{that enable}} one-way data transfer from protocols that usually require bidirectional links.|$|R
+50|$|Nordic Semiconductor have {{products}} that support 3 main connectivity topologies: Bluetooth low energy, ANT+ and 2.4 GHz <b>proprietary</b> <b>protocols.</b>|$|R
+5000|$|Art-Net, a <b>proprietary</b> <b>protocol</b> for {{transmitting}} DMX-512 over UDP/IP ...|$|E
+50|$|In 2010, Native Instruments {{released}} the Traktor Kontrol S4, which used high resolution jog wheels and a <b>proprietary</b> <b>protocol</b> rather than MIDI to achieve better {{performance of the}} jog wheels. The Mk2 of the Kontrol S4, released in 2013, uses standard HID signals rather than a <b>proprietary</b> <b>protocol</b> {{to communicate with the}} computer.|$|E
+5000|$|Independent Computing Architecture (ICA) a <b>proprietary</b> <b>protocol</b> {{designed}} by Citrix Systems ...|$|E
+5000|$|<b>Proprietary</b> <b>protocols</b> - if {{equipment}} from several manufacturers is on site, {{the use of}} a standard protocol is required.|$|R
+30|$|The {{ubiquity of}} <b>proprietary</b> <b>protocols</b> in {{manufacturing}} {{requires that the}} system be extensible with custom processors and connectors (I 3).|$|R
+5000|$|Voice over IP {{has been}} {{implemented}} {{in various ways}} using both <b>proprietary</b> <b>protocols</b> and protocols based on open standards. VoIP protocols include: ...|$|R
+5000|$|PC-over-IP (PCoIP) a <b>proprietary</b> <b>protocol</b> used by VMware (licensed from Teradici) ...|$|E
+5000|$|VLAN Trunking Protocol (VTP): {{a similar}} but <b>proprietary</b> <b>protocol</b> from Cisco ...|$|E
+50|$|TNS uses a <b>proprietary</b> <b>protocol.</b> Some details have, however, been reverse engineered.|$|E
+50|$|Adapters for {{converting}} USB {{to other}} standard or <b>proprietary</b> <b>protocols</b> also exist; however, these {{are usually not}} {{referred to as a}} serial adapter.|$|R
+50|$|Digital IP-based {{telephone}} service uses control protocols {{such as the}} Session Initiation Protocol (SIP), Skinny Client Control Protocol (SCCP) or various other <b>proprietary</b> <b>protocols.</b>|$|R
+50|$|LLDP {{performs}} functions {{similar to}} several <b>proprietary</b> <b>protocols,</b> such as Cisco Discovery Protocol, Foundry Discovery Protocol, Nortel Discovery Protocol and Link Layer Topology Discovery.|$|R
+50|$|In tele{{communications}}, a <b>proprietary</b> <b>protocol</b> is {{a communications}} protocol {{owned by a}} single organization or individual.|$|E
+5000|$|Firefox also {{implements}} a <b>proprietary</b> <b>protocol</b> from Google called [...] "safebrowsing", {{which is}} not an open standard.|$|E
+50|$|Overlay {{transport}} virtualization (OTV) is a Cisco <b>proprietary</b> <b>protocol</b> for relaying layer 2 {{communications between}} layer 3 computer networks.|$|E
+50|$|Truphone {{applications}} use the Session Initiation Protocol open standard, that {{competes with}} other VoIP standards such as UMA and <b>proprietary</b> <b>protocols</b> {{such as the}} Skype protocol.|$|R
+5000|$|... various <b>proprietary</b> <b>protocols</b> for {{wireless}} transmission (LG [...] "Wireless 1080p", Philips [...] "Wireless HDTV Link", Sony [...] "Bravia Wireless Link", Asus [...] "Wireless Display Connectivity", etc.); ...|$|R
+50|$|PSIP {{information}} may be passed through the airchain using <b>proprietary</b> <b>protocols</b> or through use of the XML-based Programming Metadata Communication Protocol (PMCP, or ATSC A/76) facility metadata scheme.|$|R
+5000|$|HP Remote Graphics Software (RGS) a <b>proprietary</b> <b>protocol</b> {{designed}} by Hewlett-Packard specifically for high end workstation remoting and collaboration.|$|E
+50|$|Eventually {{these systems}} too could link {{different}} organizations {{as long as}} they ran the same email system and <b>proprietary</b> <b>protocol.</b>|$|E
+50|$|Exchange Server uses a <b>proprietary</b> <b>protocol</b> called MAPI. Over time, however, {{it added}} support for POP3, IMAP, SMTP, and EAS.|$|E
+50|$|As of 2014, few modern {{printers}} use ESC/P; instead {{most are}} driven through a standardized page description language, usually PCL or PostScript, or they use <b>proprietary</b> <b>protocols</b> such as ESC/Page.|$|R
+50|$|The Digital Media Access Protocol (DMAP) is {{the family}} of <b>proprietary</b> <b>protocols</b> {{introduced}} by Apple that are used by iTunes, iPhoto, Remote and other software to share media across a local network.|$|R
+30|$|Open protocols: this {{strategy}} is more focused on a communication protocol between the platforms. Examples of open cloud protocols are OCCI and DeltaCloud. Examples of <b>proprietary</b> <b>protocols</b> are Amazon EC 2 or VMware vCloud.|$|R

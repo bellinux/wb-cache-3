@@ -1,0 +1,3 @@
+1|0|Public
+5000|$|The <b>L-DAX</b> Index is an {{indicator}} of the German benchmark DAX index's performance after the Xetra trading venue closes based on the floor trading at the Börse Frankfurt trading venue. The <b>L-DAX</b> Index basis is the [...] "floor" [...] trade (Parketthandel) at the Frankfurt stock exchange; it is computed daily between 09:00 and 17:45 Hours CET. The L/E-DAX index (Late/Early DAX) is calculated from 17:45 to 20:00 CET and from 08:00 to 09:00 CET. The Eurex, a European electronic futures and options exchange based in Zürich, Switzerland with a subsidiary in Frankfurt, Germany, offers options (ODAX) and Futures (FDAX) on the DAX from 08:00 to 22:00 CET.|$|E
+

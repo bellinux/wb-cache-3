@@ -1,0 +1,37 @@
+0|3329|Public
+5000|$|BICC {{signaling}} {{messages are}} {{nearly identical to}} those in ISDN User Part (ISUP); the main difference being that the narrowband circuit identification code (CIC) has been modified. The BICC architecture consists of interconnected serving nodes that provide the call service function and the bearer control function. The call service function uses BICC signaling for call setup and may also interwork with ISUP. The bearer control function receives directives from the call service function via BICC Bearer Control Protocol (ITU-T recommendation Q.1950) and is responsible for setup and teardown of bearer paths {{on a set of}} <b>physical</b> <b>transport</b> <b>links.</b> <b>Transport</b> <b>links</b> are most commonly Asynchronous Transfer Mode (ATM) or Internet Protocol (IP).|$|R
+50|$|The SyS-T data {{protocol}} {{is designed}} to work efficiently on top of lower level <b>transport</b> <b>links</b> like the MIPI System Trace Protocol. SyS-T protocol features like timestamping or data integrity checksums can be disabled, if the <b>transport</b> <b>link</b> already provides such capabilities. Other <b>transport</b> <b>links,</b> such as UART, USB or TCP/IP are also possible.|$|R
+5000|$|... iSCSI (Internet Small Computer System Interface) usually uses Ethernet {{connectors}} and cables as its <b>physical</b> <b>transport,</b> but can {{run over}} any <b>physical</b> <b>transport</b> capable of transporting IP.|$|R
+50|$|Radial <b>transport</b> <b>links</b> into Parramatta.|$|R
+50|$|Yelvertoft {{has many}} {{accessible}} <b>transport</b> <b>links.</b>|$|R
+50|$|Edogawadai has {{a variety}} of <b>transport</b> <b>links.</b>|$|R
+50|$|There are {{no public}} <b>transport</b> <b>links</b> to Enschede Airport.|$|R
+5000|$|... #Caption: Diagram {{of planned}} <b>transport</b> <b>links</b> serving Mirabel Airport ...|$|R
+50|$|<b>Transport</b> <b>links</b> {{include the}} Bangkok MRT, and the BMTA.|$|R
+5000|$|... #Subtitle level 2: Diversions and {{closures}} of <b>transport</b> <b>links</b> ...|$|R
+5000|$|... #Subtitle level 3: <b>Physical</b> <b>transport</b> for {{professional}} devices and applications ...|$|R
+2500|$|Interstate 80 – {{contemporary}} New York-to-San Francisco <b>transport</b> <b>link</b> (highway) ...|$|R
+5000|$|Interstate 80 - {{contemporary}} New York-to-San Francisco <b>transport</b> <b>link</b> (highway) ...|$|R
+5000|$|Improve the <b>transport</b> <b>links</b> between {{urban centres}} and their {{surrounds}} ...|$|R
+2500|$|... {{to improve}} <b>transport</b> <b>links</b> in {{northern}} Europe, from Hamburg to Oslo; ...|$|R
+50|$|El Salvador has <b>transport</b> <b>links</b> by road, rail, sea and air.|$|R
+5000|$|... #Caption: This view {{shows the}} <b>transport</b> <b>links</b> passing through Heavitree Gap ...|$|R
+5000|$|... {{to improve}} <b>transport</b> <b>links</b> in {{northern}} Europe, from Hamburg to Oslo; ...|$|R
+50|$|The main <b>transport</b> <b>link</b> {{to major}} towns is a gravel road.|$|R
+25|$|Improved public <b>transport</b> <b>links</b> {{and safe}} cycle routes to local railway stations.|$|R
+50|$|Severn Bridge {{is located}} on {{significant}} road, rail, and water <b>transport</b> <b>links.</b>|$|R
+5000|$|Improved public <b>transport</b> <b>links</b> {{and safe}} cycle routes to local railway stations.|$|R
+50|$|Clitheroe is well {{connected}} {{in terms of}} public <b>transport</b> <b>links</b> via Clitheroe Interchange.|$|R
+5000|$|Adequate <b>transport</b> <b>links</b> to {{the city}} itself and to the other host cities ...|$|R
+50|$|There is a {{possibility}} of a new <b>transport</b> <b>link</b> by the Toulouse tramway.|$|R
+5000|$|... #Caption: Location of Limburg Süd and <b>transport</b> <b>links</b> from Limburg a. d. Lahn ...|$|R
+5000|$|The {{following}} <b>transport</b> <b>links</b> {{facilitate the}} {{crossing of the}} Tauern from north to south: ...|$|R
+2500|$|... 10 September 1993: Belfast's <b>transport</b> <b>links</b> were {{disrupted}} {{by a number}} of IRA hoax alerts.|$|R
+5000|$|... {{good public}} <b>transport</b> <b>links</b> (city bus lines 71, 72, E31 and Nachtbus (night bus) N7) ...|$|R
+3000|$|... {{chemical}} and biological transformations as well as <b>physical</b> <b>transport</b> of chemicals in the environment and [...]...|$|R
+50|$|Because of Derby College's central {{location}} and <b>transport</b> <b>links</b> it draws students {{from across the}} region.|$|R
+50|$|Cramlington {{also has}} good road <b>transport</b> <b>links,</b> being {{situated}} between the A1, A19 and A189 roads.|$|R
+50|$|Numerous bus {{routes in}} the Rhein-Mosel (VRM) Diez provide public <b>transport</b> <b>links</b> with the {{surrounding}} area.|$|R
+50|$|Penpedairheol has public <b>transport</b> <b>links</b> to the {{surrounding}} villages that include Bargoed, Ystrad Mynach and Caerphilly.|$|R
+50|$|This {{is a list}} of {{proposed}} and actual <b>transport</b> <b>links</b> between continents and to offshore islands.|$|R
+50|$|Two {{important}} <b>transport</b> <b>links</b> {{run through}} Northolt: the Grand Union Canal {{and the modern}} A40 road.|$|R

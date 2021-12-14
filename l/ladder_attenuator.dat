@@ -1,0 +1,3 @@
+1|0|Public
+40|$|A simple circuit for {{implementing}} a current-switching digital-to-analog converter is presented. The circuit uses operational transconductance amplifiers (OTAs) for switching {{a number of}} equal-value current sources. An R- 2 R <b>ladder</b> <b>attenuator</b> is used to scale the currents in a binary form. Experimental results show good performance...|$|E
+

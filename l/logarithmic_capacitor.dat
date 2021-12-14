@@ -1,0 +1,3 @@
+1|0|Public
+40|$|A design {{technique}} is suggested {{in this paper}} for the realization of a generic nonlinear capacitor entirely from uniformly doped and standard MIS capacitors. A new capacitive element-capacitor doublet-is proposed which is used as the building block to achieve the required nonlinear capacitance. The method involves Q-V curve engineering to back trace the parameters of various doublets required to be connected in order to approximate the desired Q-V curve. One specific example of the design of nonlinear (<b>logarithmic)</b> <b>capacitor</b> required in a mu-law compander is discussed...|$|E
+

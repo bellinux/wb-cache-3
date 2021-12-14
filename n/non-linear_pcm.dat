@@ -1,0 +1,3 @@
+1|0|Public
+5000|$|<b>Non-linear</b> <b>PCM</b> {{encodings}} (A-law / μ-law, ADPCM, NICAM) {{attempt to}} improve their effective dynamic ranges {{by a variety of}} methods - logarithmic step sizes between the output signal strengths represented by each data bit (trading greater quantisation distortion of loud signals for better performance of quiet signals) ...|$|E
+

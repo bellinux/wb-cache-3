@@ -1,0 +1,37 @@
+0|3555|Public
+40|$|<b>Let</b> <b>T</b> 1 be a {{generalized}} Calderón-Zygmund operator or ±I (the identity operator), <b>let</b> <b>T</b> 2 and T 4 be the linear operators, and <b>let</b> <b>T</b> 3 =±I. Denote the Toeplitz type operator by Tb=T 1 MbIαT 2 +T 3 IαMbT 4, where Mbf=bf and Iα is the fractional integral operator. In this paper, we investigate the boundedness of the operator Tb on weighted Morrey space when b {{belongs to the}} weighted BMO spaces...|$|R
+5000|$|The {{first and}} last {{integrals}} can be evaluated easily usingWallis' integrals.For the first one, <b>let</b> (<b>t</b> varying from 0 to [...] ).Then, the integral becomes [...]For the last integral, <b>let</b> (<b>t</b> varying from [...] to [...] ).Then, it becomes [...]|$|R
+30|$|<b>Let</b> <b>T</b> be a self-mapping of K.|$|R
+3000|$|<b>Let</b> <b>T</b> {{be a time}} scale, i.e., T is a nonempty closed {{subset of}} R. <b>Let</b> 0, <b>T</b> be points in T, an {{interval}} (0, T) [...]...|$|R
+50|$|<b>Let</b> <b>T</b> be a {{continuous}} affine self-mapping of C.|$|R
+50|$|<b>Let</b> <b>T</b> be a bounded operator. The {{following}} are equivalent.|$|R
+30|$|<b>Letting</b> <b>t</b> =R_ 01 in {{inequality}} (2.21), we obtain Theorem  2.1.|$|R
+50|$|<b>Let</b> <b>T</b> be {{a regular}} chain in the {{polynomial}} ring R.|$|R
+30|$|<b>Let</b> <b>t</b> 1 be a tweet {{from the}} set of tweets T.|$|R
+30|$|Theorem 3.3 <b>Let</b> <b>T</b> be an algebraically k-quasi-M-hyponormal operator. Then T is polaroid.|$|R
+30|$|Theorem 3.5 <b>Let</b> <b>T</b> be an algebraically k-quasi-M-hyponormal operator. Then T has SVEP.|$|R
+30|$|Corollary 3.4 <b>Let</b> <b>T</b> be an algebraically k-quasi-M-hyponormal operator. Then T is isoloid.|$|R
+30|$|<b>Let</b> <b>T</b> be {{the set of}} {{prohibited}} moves, {{known as}} the Tabu list.|$|R
+30|$|Step 7 : If t < l, then <b>let</b> <b>t</b> = t + 1 {{and go back}} to step 6; if t = l, then jump to step 8.|$|R
+30|$|Theorem 2.2 <b>Let</b> <b>T</b> be an algebraically k-quasi-∗-class A operator. Then T is polaroid.|$|R
+30|$|Theorem 3.2 <b>Let</b> <b>T</b> be a quasinilpotent algebraically k-quasi-M-hyponormal operator. Then T is nilpotent.|$|R
+30|$|<b>Let</b> <b>T</b> be {{the cone}} preserving, {{completely}} continuous operator that {{was defined by}} (2.16).|$|R
+5000|$|<b>Let</b> <b>T</b> be a maximal torus in U with Lie algebra [...] Then setting ...|$|R
+30|$|Proof. <b>Let</b> <b>T</b> be a cone preserving, strict set {{contraction}} {{that was}} defined by (2.1).|$|R
+30|$|<b>Let</b> <b>T</b> and R be two {{positive}} real numbers {{such that}} 0 < TR< T^*.|$|R
+2500|$|<b>Let</b> <b>T</b> be {{compact and}} T*T = TT*. Apply the Cartesian {{decomposition}} to T: define ...|$|R
+5000|$|<b>Let</b> <b>T</b> be a boundary-antipodally-symmetric {{triangulation}} of [...] and L a boundary-odd {{labeling of}} T.|$|R
+5000|$|<b>Let</b> <b>T</b> be {{compact and}} T*T = TT*. Apply the Cartesian {{decomposition}} to T: define ...|$|R
+5000|$|... where H2 is the Hardy {{space of}} the circle and <b>letting</b> <b>T</b> be {{multiplication}} by z.|$|R
+3000|$|The {{theory of}} dynamic {{equations}} on time scales {{was introduced by}} Stefan Hilger in 1988 [1]. <b>Let</b> <b>T</b> be a time scale, i.e., T is a nonempty closed subset of ℝ. <b>Let</b> 0, <b>T</b> be points in T, an interval [...]...|$|R
+3000|$|... (called weights), <b>let</b> <b>T</b> be the {{bilateral}} weighted shift on an infinite dimensional Hilbert space operator [...]...|$|R
+30|$|Definition 3.2. [19] <b>Let</b> <b>T</b> be {{a mapping}} on a subset C of a Banach space E.|$|R
+2500|$|<b>Let</b> <b>T</b> be {{the time}} {{required}} for the light to travel from point Q to point P.|$|R
+3000|$|Lemma 2.1. (Demiclosedness {{principle}} of nonexpansive mapping) <b>Let</b> <b>T</b> : C → C a non-expansive mapping with [...]...|$|R
+5000|$|Eq. (15) can {{be solved}} by {{separation}} of variables. By <b>letting</b> <b>T</b> (x,y) = X(x) Y(y), we obtain: ...|$|R
+5000|$|<b>Let</b> <b>T</b> be a Birnbaum-Saunders {{distributed}} variate with parameters α and β. A useful {{transformation of}} T is ...|$|R
+3000|$|... be a {{complete}} fuzzy metric space, and <b>let</b> <b>T</b> be a fuzzy ψ-p-contractive set-valued mapping from X into [...]...|$|R
+30|$|<b>Let</b> <b>T</b> be an {{arbitrary}} positive number. Now {{we give the}} definition of H^i([0,M])-solution to the initial-boundary problem (1.8)-(1.13).|$|R
+30|$|<b>Let</b> <b>T</b> be the {{schedule}} length, i.e., {{the number of}} time slots in a single period of {{the schedule}}.|$|R
+3000|$|<b>Let</b> <b>T</b> be a J-Hermitian {{subspace}}. Then S is a J-self-adjoint subspace extension (briefly, J-SSE) of T if [...]...|$|R
+5000|$|In formal terms, let X be a Hilbert {{space and}} <b>let</b> <b>T</b> be a bounded self-adjoint {{operator}} on X.|$|R

@@ -1,0 +1,37 @@
+0|974|Public
+50|$|IBM {{refers to}} the data records programmers work with as <b>logical</b> <b>records,</b> and the <b>format</b> on disc as blocks or {{physical}} records. One block might contain several <b>logical</b> (or user) <b>records</b> or, in some schemes, partial <b>logical</b> <b>records.</b>|$|R
+5000|$|Data {{sets are}} not {{unstructured}} streams of bytes, but rather are organized in various <b>logical</b> <b>record</b> and block structures {{determined by the}} [...] (data set organization), [...] (<b>record</b> <b>format),</b> and other parameters. These parameters are specified {{at the time of}} the data set allocation (creation), for example with Job Control Language [...] statements. Inside a job they are stored in the Data Control Block (DCB), which is a data structure used to access data sets, for example using access methods.|$|R
+50|$|Data on CMS is {{structured}} in <b>logical</b> <b>records</b> {{rather than a}} stream of bytes. For textual data a line of text corresponds to a <b>logical</b> <b>record.</b> In CMS Pipelines the data is passed between the stages as <b>logical</b> <b>records.</b>|$|R
+5000|$|Changing the {{physical}} block size or <b>logical</b> <b>record</b> {{length of a}} sequential data set.|$|R
+50|$|QSAM is—as {{its name}} says—queued, in this {{specific}} context meaning buffered with deblocking of reads and blocking of writes. It allows programs {{to read and}} write <b>logical</b> <b>records</b> within physical blocks of data, as opposed to the less advanced basic sequential access method (BSAM) which allows programs to access physical blocks of data, but provides no support for accessing <b>logical</b> <b>records</b> within blocks.|$|R
+50|$|The access {{methods are}} {{responsible}} for blocking and deblocking <b>logical</b> <b>records</b> as they are written to or read from external media.|$|R
+50|$|XDCAM is a {{professional}} file-based video <b>recording</b> <b>format.</b>|$|R
+5000|$|... 100% Attitude, 1999, Produksi Lunatic <b>Records,</b> <b>Format</b> Cassette ...|$|R
+25|$|The {{official}} <b>recording</b> <b>format</b> of the 2012 Olympic Games used Panasonic's digital technologies. The official {{video was}} produced and distributed from the International Broadcast Centre in 1080/50i High-Definition (HD) format. Panasonic announced that DVCPRO HD {{would be the}} official <b>recording</b> <b>format.</b> OBS London used P2 HD shoulder-mount camcorders.|$|R
+5000|$|Dolby Digital (AC-3) / MPEG-4 AAC-LC audio <b>recording</b> <b>formats.</b>|$|R
+5000|$|New Generation Calling, 2003, Produksi Spills <b>Record,</b> <b>Format</b> Cassette ...|$|R
+5000|$|Dr. Kees Immink For Coding Technology for Optical <b>Recording</b> <b>Formats</b> ...|$|R
+5000|$|Compatible Discrete 4, a {{quadraphonic}} gramophone <b>record</b> <b>format</b> {{developed by}} JVC ...|$|R
+50|$|The 8mm video format refers informally {{to three}} related {{videocassette}} formats for the NTSC and PAL/SECAM television systems. These are the original Video8 (analog <b>recording)</b> <b>format</b> and its improved successor Hi8 (analog video and analog audio but with provision for digital audio), {{as well as}} a more recent digital <b>recording</b> <b>format</b> known as Digital8.|$|R
+5000|$|V is the <b>record</b> <b>format</b> (RECFM) {{which can}} be Fixed or Variable ...|$|R
+50|$|MOD and TOD are <b>recording</b> <b>formats</b> {{for use in}} {{consumer}} digital file-based camcorders.|$|R
+5000|$|AVCHD - A <b>recording</b> <b>format</b> {{that uses}} {{a lower level of}} H.264/MPEG-4 AVC ...|$|R
+5000|$|... #Caption: JVC's VHS tape {{won over}} Betamax to become common home <b>recording</b> <b>format.</b>|$|R
+5000|$|A Gentle Reminder LP reissue (2013, Rise Records) also {{released}} in vinyl <b>record</b> <b>format</b> ...|$|R
+5000|$|XAVC - A <b>recording</b> <b>format</b> {{that can}} be used with SxS PRO+ media cards ...|$|R
+50|$|As of 2013, Apple has {{not made}} {{detailed}} information about this <b>recording</b> <b>format</b> publicly available.|$|R
+5000|$|Cities of Glass LP/CD (2008) Skin Graft <b>Records</b> (cd <b>format)</b> Lovepump United <b>Records</b> (vinyl <b>format)</b> ...|$|R
+50|$|Many common DSLRs use H.264 video {{wrapped in}} QuickTime MOV {{containers}} as the native <b>recording</b> <b>format.</b>|$|R
+5000|$|A Gentle Reminder LP (2012, Music Is Subjective / INgrooves, also {{released}} in vinyl <b>record</b> <b>format</b> ...|$|R
+50|$|Some <b>recording</b> <b>formats,</b> such as DVD+RW VR, do {{not require}} {{finalization}} {{before they can be}} played.|$|R
+5000|$|The Lovvers LP LP/CD (2006) Skin Graft <b>Records</b> (vinyl <b>format)</b> & Lovepump United <b>Records</b> (cd <b>format)</b> ...|$|R
+50|$|Internally, both models feature TEC brand (model FB-501) floppy drive mechanisms. The {{electronics}} on {{the mechanisms}} are modified by MSD to {{be compatible with}} the GCR <b>recording</b> <b>format</b> used by all Commodore floppy disk drives at that time (the D9060/90 hard disks and the later produced 1581 3½-inch drive used the MFM <b>recording</b> <b>format).</b> The main control board utilizes a 1 MHz Rockwell International 6511Q microcontroller.|$|R
+50|$|Like Datasette models, the <b>recording</b> <b>format</b> is {{compatible}} across computers; the VIC, for example, can read PET cassettes.|$|R
+5000|$|... xvYCC is not {{supported}} by DVD-Video but {{is supported by the}} high-definition <b>recording</b> <b>format</b> AVCHD and PlayStation 3.|$|R
+5000|$|Originally {{the unit}} {{supported}} {{a maximum of}} 20 inputs and had an eight-track <b>recording</b> <b>format.</b> As the Mobile began {{to be used for}} live <b>recording,</b> the eight-track <b>format</b> quickly proved insufficient and an upgrade to 16-track took place.|$|R
+50|$|An {{advantage}} over other methods {{is that such}} exported routines can provide proper DWARF (Debug With Attributed <b>Record</b> <b>Format)</b> debugging information.|$|R
+5000|$|HDV - a tape-based high {{definition}} video <b>recording</b> <b>format.</b> Uses 4:2:0 color subsampling and 19.4 or 25 Mbit/s total data rate.|$|R
+5000|$|ISO/IEC 7811 defines {{traditional}} {{techniques for}} recording data on ID-1 identification cards, namely embossed characters and several different magnetic <b>recording</b> <b>formats.</b>|$|R
+5000|$|... the {{mechanical}} reproduction rights in recorded music, for example where works are reproduced in <b>recording</b> <b>formats,</b> such as CDs or cassettes ...|$|R
+50|$|MOD and TOD are <b>recording</b> <b>formats</b> for use {{in digital}} tapeless camcorders. The formats are {{comparable}} to XDCAM EX, HDV and AVCHD.|$|R
+50|$|This is {{the first}} Mathis album whose release {{did not include the}} LP <b>record</b> <b>format,</b> which was {{discontinued}} earlier in the year.|$|R

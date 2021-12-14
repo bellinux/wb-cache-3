@@ -1,0 +1,5 @@
+3|0|Public
+50|$|Examples of <b>proceed-to-select</b> {{pertain to}} a dial tone in a {{telephone}} system.|$|E
+50|$|Note: Call {{set-up time}} is the {{summation}} of: (a) call request time—the time from initiation of a calling signal to the delivery to the caller of a <b>proceed-to-select</b> signal; (b) selection time—the time from the delivery of the <b>proceed-to-select</b> signal until all the selection signals have been transmitted; and (c) post selection time—the time {{from the end of}} the transmission of the selection signals until the delivery of the call-connected signal to the originating terminal.|$|E
+5000|$|In telecommunications, <b>proceed-to-select</b> is {{a signal}} or {{event in the}} call-access phase of a data call, which signal or event {{confirms}} the reception of a call-request signal and advises the calling data terminal equipment {{to proceed with the}} transmission of the selection signals.|$|E
+

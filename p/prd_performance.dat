@@ -1,0 +1,3 @@
+1|0|Public
+40|$|This paper {{presents}} {{a comparison of}} modern time and frequency domain coding of ElectroCardioGram (ECG) signals. A set of different subband decompositions are compared for coding purposes. These results are then compared with a time domain linear interpolation technique which is optimal with respect to reconstruction error {{given the number of}} retained samples. Comparing the optimized time domain solution to the subband coders, we observe better performance for the latter class of coders in terms the percentage root mean square difference (<b>PRD)</b> <b>performance</b> measure. The observations referred to above is confirmed and complemented by visual inspection of the reconstructed signals...|$|E
+

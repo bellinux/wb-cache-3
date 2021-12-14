@@ -1,0 +1,3 @@
+1|0|Public
+5000|$|If {{the user}} {{is trying to}} log into the local host then the [...] key {{will be used as}} database. If the user is trying to log into another host then the <b>NetLogon</b> <b>service</b> is used to carry the data.msv1_0.dll<->netlogon<->remote netlogon<->remote msv1_0.dll<->remote SAMOn Windows XP, GINA is only shown if the user presses the SAS(Needs Explanation).|$|E
+

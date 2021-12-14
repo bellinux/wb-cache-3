@@ -1,0 +1,4 @@
+2|0|Public
+5000|$|<b>Protocol</b> <b>discriminator</b> (PD) - Specifies which {{signaling}} protocol {{is used for}} the connection (e.g. PD=8 for DSS1) ...|$|E
+50|$|The Direct Transfer Application Part (DTAP) {{are used}} to {{transfer}} call control and mobility management messages between the MSC and the MS. The DTAP information in these messages is not interpreted by the BSS. Messages received from the MS are identified as DTAP by the <b>Protocol</b> <b>Discriminator</b> Information Element. The majority of radio interface messages are transferred across the BSS MSC interface by DTAP, except for messages belonging to the Radio Resource (RR) management protocol.|$|E
+

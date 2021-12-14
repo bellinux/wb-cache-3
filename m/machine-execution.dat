@@ -1,0 +1,3 @@
+1|0|Public
+50|$|The {{intent of}} the {{modified}} interface {{is to reduce the}} portion of the guest's execution time spent performing operations which are substantially more difficult to run in a virtual environment compared to a non-virtualized environment. The paravirtualization provides specially defined 'hooks' to allow the guest(s) and host to request and acknowledge these tasks, which would otherwise be executed in the virtual domain (where execution performance is worse). A successful paravirtualized platform may allow the virtual machine monitor (VMM) to be simpler (by relocating execution of critical tasks from the virtual domain to the host domain), and/or reduce the overall performance degradation of <b>machine-execution</b> inside the virtual-guest.|$|E
+

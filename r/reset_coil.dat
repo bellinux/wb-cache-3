@@ -1,0 +1,3 @@
+1|0|Public
+50|$|Magnetic {{latching}} relays can have either single or dual coils. On a single coil device, the relay will operate {{in one direction}} when power is applied with one polarity, and will reset when the polarity is reversed. On a dual coil device, when polarized voltage {{is applied to the}} <b>reset</b> <b>coil</b> the contacts will transition. AC controlled magnetic latch relays have single coils that employ steering diodes to differentiate between operate and reset commands.|$|E
+

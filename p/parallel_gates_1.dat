@@ -1,0 +1,37 @@
+0|1282|Public
+40|$|Explicit-multi-threading (XMT) is a {{parallel}} programming approach for exploiting on-chip parallelism. Its fine-grained SPMD programming model {{is suitable for}} many computing intensive applications. In this paper, we present a <b>parallel</b> <b>gate</b> level logic simulation algorithm and study its implementation on an XMT processor. The test results show that hundreds-fold speedup can be achieved...|$|R
+25|$|Gold Coast – Adjacent to <b>gates</b> <b>1</b> and 2.|$|R
+5000|$|... #Caption: Gediminas Kirkilas and Robert M. <b>Gates,</b> <b>1</b> July 2008.|$|R
+2500|$|Walworth Road (opened as Camberwell <b>Gate</b> <b>1</b> May 1863, closed 1916) ...|$|R
+5000|$|... #Caption: An American Eagle Embraer ERJ-145 {{parked at}} <b>gate</b> <b>1</b> (2014).|$|R
+5000|$|... #Caption: <b>Gate</b> <b>1</b> at the Maccabiah Stadium {{during the}} 2nd Maccabiah.|$|R
+5000|$|Walworth Road (opened as Camberwell <b>Gate</b> <b>1</b> May 1863, closed 1916) ...|$|R
+5000|$|All riders go of <b>gate</b> {{positions}} red (<b>1),</b> Blue (2), White (3), Yellow (4) {{except those}} {{starting from the}} tapes as they go off <b>gate</b> <b>1.</b>|$|R
+50|$|PAN.SY.FI Apollon <b>Gate</b> <b>1</b> is {{the name}} of the {{supporters}} fan club.|$|R
+5000|$|Houens fonds diplom -Det Forenede Dampskibs-Selskab, Karl Johans <b>gate</b> <b>1,</b> Oslo (1925) ...|$|R
+5000|$|... #Subtitle level 2: Wehrmacht at the <b>gates</b> (<b>1</b> November - 5 December) ...|$|R
+40|$|Photograph {{used for}} a {{newspaper}} owned by the Oklahoma Publishing Company. Caption: "The above drawing indicates the routing of traffic by a "diamond rap" interchange on U. S. 277 at Fort Sill's <b>Gate</b> <b>1</b> in a proposed $ 2 million improvement program of the highway from the north city limits of Lawton to a point north of <b>Gate</b> <b>1.</b> ...|$|R
+5000|$|... #Caption: Savannah Bluff Lock and Dam; Dam structure, <b>Gates</b> <b>1</b> and 5 open.|$|R
+5000|$|East <b>Gates</b> <b>1</b> - only on weekday rush-hours (7:30 - 9:50, 17:10 - 21:15) ...|$|R
+50|$|An ETO {{is turned}} ON by {{applying}} positive voltages to <b>gates,</b> <b>gate</b> <b>1</b> and <b>gate</b> 2. When a positive voltage {{is applied to}} the gate 2, it turns on the MOSFET that is connected in series with the cathode terminal of the PNPN thyristor structure. The positive voltage applied to the <b>gate</b> <b>1</b> turns off the MOSFET connected to the gate terminal of the thyristor.|$|R
+50|$|The A and B inputs must {{be stable}} {{throughout}} this sample time. The output C becomes valid {{during this time}} - and therefore a <b>1</b> <b>gate</b> output can't drive another <b>1</b> <b>gate's</b> inputs. Hence <b>1</b> <b>gates</b> have to feed 3 gates and they in turn have to feed <b>1</b> <b>gates.</b>|$|R
+30|$|To {{realize this}} condition, twenty three Reversible <b>Gate</b> <b>1</b> s (RG 1) {{are used to}} {{generate}} the AND term.|$|R
+5000|$|... #Caption: Heritage-listed <b>gate</b> <b>1</b> of the Krupp’s {{steel works}} {{opposite}} the station; the gatehouse {{has now been}} demolished, 2012 ...|$|R
+5000|$|... #Caption: An American Eagle (Mesa Airlines) Bombardier CRJ-900 {{overnights}} at <b>gate</b> <b>1</b> {{preparing to}} return to Dallas/Fort Worth the next morning (2017) ...|$|R
+5000|$|... #Caption: Blaauwgården, C. Sundts <b>gate</b> <b>1,</b> Bergen. Originally office- and storehouse. Today {{the part}} facing the harbour is fitted out for offices.|$|R
+30|$|Close {{observation}} of (2) reveals that only fourteen reversible <b>gate</b> <b>1</b> are sufficient {{to implement the}} logic, seven working as AND gates and the rest seven as OR gates. It has already been seen in Figures  4 and 5 that a reversible <b>gate</b> <b>1</b> is capable of implementing the OR operation {{as well as the}} AND operation. Figure  14 shows the implementation of (2) for finding out the greater of the two eight-bit numbers A and B.|$|R
+5000|$|... #Caption: Statue of Hall of Fame Coach Bill Yeoman in Legends Plaza outside <b>Gate</b> <b>1</b> of TDECU Stadium at the University of Houston ...|$|R
+5000|$|Walter <b>Gates</b> (<b>1</b> June 1871 [...] - [...] 1939) was a South African fencer. He competed at the 1908 and 1912 Summer Olympics.|$|R
+30|$|To {{minimise}} the transistor count, a reversible one-bit comparator {{is implemented}} using the proposed reversible <b>Gates</b> <b>1</b> and 2 (RG 1 and RG 2).|$|R
+50|$|The protagonist in Baldur's <b>Gate</b> <b>1</b> and 2 is {{identified}} as a Child of 'Bhaal,' a deity {{also known as the}} 'God of Murder'.|$|R
+5000|$|... #Caption: The {{transit system}} which links the main {{terminal}} building to satellite buildings <b>1</b> (<b>gates</b> <b>1</b> - 19) and 2 (gates 20 - 39).|$|R
+5000|$|<b>Gate</b> <b>1</b> - VIP section, media {{stand and}} seating area of all gold tier season ticket holders {{for all three}} tenants. Seating capacity: 724.|$|R
+40|$|In {{this paper}} we propose a scheme to {{implement}} a quantum teleportation based on the current experimental design [Nature (London) 431, 162 (2004); ibid 445, 515 (2007) ] in which superconducting charge qubits are capacitively coupled to a single high-Q superconducting coplanar resonator. As advantage of this architecture, it permits the use of multiqubit gates between non-nearest qubits and the realization of <b>parallel</b> <b>gates.</b> We consider the case of two qubits inside the resonator, where the teleportation is accomplished. Comment: 4 page...|$|R
+5000|$|Gate {{interconnection}} rules are: <b>1</b> <b>gates</b> {{can drive}} 2 gates and/or 3 gates; 2 gates can drive only 3 gates, 3 gates can drive 4 <b>gates</b> and/or <b>1</b> <b>gates,</b> 4 gates can drive only 1 gates: ...|$|R
+25|$|The {{terminal}} building splits into two international concourses, the north concourse with 2 gates (5 and 6) {{and the south}} concourse with 4 <b>gates</b> (<b>1</b> to 4).|$|R
+50|$|The {{organisation}} had its {{offices in}} Sehesteds <b>gate</b> <b>1</b> in Oslo for many years, {{and now has}} its offices in Majorstuveien 39 at Majorstuen in central Oslo.|$|R
+50|$|The {{terminal}} building splits into two international concourses, the north concourse with 2 gates (5 and 6) {{and the south}} concourse with 4 <b>gates</b> (<b>1</b> to 4).|$|R
+50|$|There are six gate entrances/exits to Tropicana Field. They are {{numbered}} in a clockwise fashion. <b>Gate</b> <b>1</b> {{is the main}} entrance and {{also known as the}} Rotunda.|$|R
+50|$|South Luzon Expressway (SLEX) San Pedro, La Marea, South Peak Exit (northbound) {{is located}} in San Antonio near <b>Gate</b> <b>1</b> of La Marea Village cor. Magsaysay Road.|$|R
+5000|$|... #Caption: Rawla Mandi bridge or Head (R.D. 321) and {{its water}} <b>gates</b> <b>1)</b> Water <b>gates</b> to KPD distributory. 2) Main gates. 3) Water gates to KND distributory ...|$|R
+3000|$|... is {{the number}} of <b>gates</b> (<b>1</b> for the single-gate {{geometry}} and 2 for the double-gate geometry), κ is the relative dielectric constant of the gate insulator, t [...]...|$|R

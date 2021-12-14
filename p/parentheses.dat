@@ -1,0 +1,37 @@
+6188|1823|Public
+5|$|Auburn High School {{offers the}} {{following}} academic clubs, athletic teams, and service organizations (founding year at Auburn High in <b>parentheses).</b>|$|E
+5|$|Competitive first-team {{appearances}} only; appearances including substitutes {{appear in}} <b>parentheses</b> and italics.|$|E
+5|$|Competitive first-team {{appearances}} only; substitutes {{appear in}} <b>parentheses.</b>|$|E
+50|$|This {{follows the}} same rules as the <b>parenthesis</b> version, with opening <b>parenthesis</b> {{replaced}} with a Sheffer stroke and the (redundant) closing <b>parenthesis</b> removed.|$|R
+50|$|The inner <b>parenthesis</b> {{represent}} the Jews' subversion {{of the home}} and destruction of the family through mass-media degeneracy. The next <b>parenthesis</b> represents the destruction of the nation through mass immigration, and the outer <b>parenthesis</b> represents international Jewry and world Zionism.|$|R
+50|$|When an infix {{expression}} is printed, an {{opening and closing}} <b>parenthesis</b> must be added {{at the beginning and}} ending of each expression. As every subtree represents a subexpression, an opening <b>parenthesis</b> is printed at its start and the closing <b>parenthesis</b> is printed after processing all of its children.|$|R
+5|$|Competitive, {{professional}} matches only. Appearances as substitute (in <b>parentheses)</b> {{included in}} total.|$|E
+5|$|English names, where available, {{are given}} in <b>parentheses.</b>|$|E
+5|$|Hometowns in <b>parentheses,</b> as is {{any other}} {{relevant}} information.|$|E
+25|$|Therefore, our {{conclusion}} is that the order of <b>parenthesis</b> matters, and that our task {{is to find the}} optimal order of <b>parenthesis.</b>|$|R
+5000|$|Another way {{to simplify}} the {{notation}} is to eliminate <b>parenthesis</b> by using Polish Notation. For example, the earlier examples with only <b>parenthesis</b> could be rewritten using only strokes as follows ...|$|R
+5000|$|If φ is {{a natural}} number, then the result of concatenating s, left <b>parenthesis,</b> φ, and right <b>parenthesis</b> (in that order, from left to right) denotes the {{successor}} of φ.|$|R
+5|$|Note: Numbers in <b>parentheses</b> {{represent}} coins {{which were}} distributed in proof sets, {{which are also}} included in the totals.|$|E
+5|$|Number in <b>parentheses</b> {{indicates}} {{number of}} international appearances as captain.|$|E
+5|$|Numbers in <b>parentheses</b> denote {{appearances}} as substitute.|$|E
+40|$|This paper {{explains}} how semantic hypergraphs {{are used to}} construct ontological models of morphological rules in the Kazakh language. The nodes within these g raphs represent semantic features (morphological concepts) and the edges within represent the relationships between these features. Word forms within the hypergraph structure are described in trees which are converted into linear <b>parenthesis</b> notation; {{the trees and the}} linear <b>parenthesis</b> notations correspond to each other. Linear <b>parenthesis</b> notations are the formal models of morphological rules and the software implementation of the linear <b>parenthesis</b> notation allows for the automation of the synthesis of the various morphological word form analyses of the Kazakh language...|$|R
+50|$|The {{shunting}} yard algorithm {{can also be}} applied to produce prefix notation (also known as Polish notation). To do this one would simply start {{from the end of}} a string of tokens to be parsed and work backwards, reverse the output queue (therefore making the output queue an output stack), and flip the left and right <b>parenthesis</b> behavior (remembering that the now-left <b>parenthesis</b> behavior should pop until it finds a now-right <b>parenthesis).</b>|$|R
+50|$|An {{asterisk}} {{before a}} <b>parenthesis</b> {{indicates that the}} lack of the word or phrase inside is ungrammatical, while an asterisk after the opening bracket of the <b>parenthesis</b> indicates that the existence of the word or phrase inside is ungrammatical.|$|R
+5|$|Numbers in <b>parentheses</b> {{indicate}} {{the number of}} medal events contested in each sport.|$|E
+5|$|Page {{numbers are}} given in <b>parentheses.</b>|$|E
+5|$|<b>Parentheses</b> i.e. (1/3) {{next to the}} player's name denotes his century {{number at}} Bellerive Oval.|$|E
+50|$|Director {{indicated}} in <b>parenthesis.</b>|$|R
+50|$|Charter date in <b>parenthesis.</b>|$|R
+50|$|Babelfish {{translation}} in <b>parenthesis.</b>|$|R
+5|$|<b>Parentheses</b> {{next to the}} player's score denotes his century {{number at}} Brabourne Stadium.|$|E
+5|$|Set {{score in}} <b>parentheses</b> {{indicates}} a tiebreaker score.|$|E
+5|$|The chart below {{provides}} {{a comparison of}} regular season statistics in key categories (overall rank amongst 32 teams in <b>parentheses).</b>|$|E
+50|$|Voice {{actors in}} <b>parenthesis.</b>|$|R
+50|$|The function-like macro {{declaration}} {{must not}} have any whitespace between the identifier and the first, opening, <b>parenthesis.</b> If whitespace is present, the macro will be interpreted as object-like with everything starting from the first <b>parenthesis</b> added to the token list.|$|R
+50|$|Film {{directors}} {{indicated in}} <b>parenthesis.</b>|$|R
+5|$|The {{following}} {{member states}} have signed the ICSID convention (date in <b>parentheses),</b> {{but have not}} ratified it.|$|E
+5|$|The {{following}} {{table lists}} the consonants of Khalkha Mongolian. The consonants enclosed in <b>parentheses</b> occur only in loanwords.|$|E
+5|$|The list {{of sports}} is given below (Number in <b>parentheses</b> {{indicates}} number of events).|$|E
+50|$|With name {{variants}} in <b>parenthesis.</b>|$|R
+5000|$|... {{the first}} {{operation}} to be acted upon is {{any and all}} expressions found inside a <b>parenthesis.</b> So beginning at the left and moving to the right, find the first (and in this case, the only) <b>parenthesis,</b> that is, (2 + 22). Within the <b>parenthesis</b> itself is found the expression 22. The reader is required to find the value of 22 before going any further. The value of 22 is 4. Having found this value, the remaining expression looks like this: ...|$|R
+50|$|Date {{of first}} flight in <b>parenthesis.</b>|$|R

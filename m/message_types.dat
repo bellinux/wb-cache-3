@@ -1,0 +1,37 @@
+290|628|Public
+2500|$|Unlike other routing protocols, OSPF {{does not}} carry data via a {{transport}} protocol, {{such as the}} User Datagram Protocol (UDP) or the Transmission Control Protocol (TCP). Instead, OSPF forms IP datagrams directly, packaging them using protocol number 89 for the IP Protocol field. OSPF defines five different <b>message</b> <b>types,</b> for various types of communication: ...|$|E
+50|$|A new {{message type}} {{expressed}} in XML syntax, {{which is more}} flexible and easier to implement than the previous generation of <b>message</b> <b>types</b> (MT). These <b>message</b> <b>types</b> are developed in accordance with ISO 20022 standard.|$|E
+50|$|SWIFT <b>Message</b> <b>types</b> are {{the format}} or schema {{used to send}} {{messages}} to financial institutions on the SWIFT (Society for Worldwide Interbank Financial Telecommunication) network. The original <b>message</b> <b>types</b> were developed by SWIFT and retrospectively made into an ISO standard, ISO 15022. This was later supplemented by a XML based version under ISO 20022.|$|E
+5000|$|The <b>Message</b> <b>Type</b> {{indicates}} the ISUP <b>message</b> <b>type.</b> The presence and {{form of the}} remaining 3 components are determined by this <b>message</b> <b>type.</b>|$|R
+50|$|A 1905.1 device {{can also}} request Link Metrics from another 1905.1 device by {{generating}} a Link Metric Query <b>message</b> (<b>Message</b> <b>type</b> 0x0005). The requested device will respond with a Link Metric Response <b>message</b> (<b>Message</b> <b>type</b> 0x0006).|$|R
+50|$|The <b>Message</b> <b>Type</b> Indicator is a 4 digit {{numeric field}} which {{indicates}} the overall function of the <b>message.</b> A <b>Message</b> <b>Type</b> Indicator includes the ISO 8583 version, the Message Class, the Message Function and the Message Origin, as described below.|$|R
+5000|$|In more detail, MIDI 1.0 defines several basic <b>message</b> <b>types</b> of channel messages: ...|$|E
+5000|$|Any <b>message</b> <b>types</b> and {{contents}} can be used: HTML, XML, SOAP, JSON, REST, etc.|$|E
+5000|$|... the {{receiver}} specifies which <b>message</b> <b>types</b> are permitted, and sends this permission {{data to the}} sender, ...|$|E
+5000|$|<b>Message</b> <b>type</b> (MT) - Specifies {{the type}} of a layer 3 message out of the Q.931-defined <b>Message</b> <b>type</b> set for call control (e.g. SETUP). There are {{messages}} defined for the call setup, the call release and the control of call features.|$|R
+25|$|Message type: This field {{identifies}} the handshake <b>message</b> <b>type.</b>|$|R
+5000|$|Discovery (<b>Message</b> <b>Type</b> 0x0000) {{to detect}} direct 1905.1 neighbors ...|$|R
+5000|$|BEEP defines 5 <b>message</b> <b>types</b> {{to allow}} {{most of the}} {{application}} protocols patterns needed. They are the following: ...|$|E
+5000|$|RMA {{operates}} by managing which <b>message</b> <b>types</b> {{are permitted}} to be exchanged between users of a SWIFT service: ...|$|E
+50|$|XML/EDIFACT is an Electronic Data Interchange (EDI) format used in Business-to-business transactions. It allows EDIFACT <b>message</b> <b>types</b> {{to be used}} by XML systems.|$|E
+5000|$|Message type: This field {{identifies}} the handshake <b>message</b> <b>type.</b>|$|R
+50|$|The <b>message</b> <b>type</b> {{defines the}} {{function}} of each DTAP message.|$|R
+5000|$|Notification (<b>Message</b> <b>Type</b> 0x0001) {{to inform}} network devices about a {{topology}} change ...|$|R
+5000|$|Uniquely {{defines the}} {{function}} and format of each RR message. The message type is mandatory for all messages. RR <b>message</b> <b>types</b> may be: ...|$|E
+50|$|SWIFT {{messages}} {{consist of}} five {{blocks of the}} data including three headers, message content, and a trailer. <b>Message</b> <b>types</b> are crucial to identifying content.|$|E
+5000|$|Although ISO 15022 <b>Message</b> <b>Types</b> are {{different}} in their structure than the SWIFT MT, the naming convention remains the same. The following example will illustrate: ...|$|E
+50|$|The <b>message</b> <b>type</b> may be {{followed}} by various information elements depending on the protocol.|$|R
+5000|$|Query/Response (<b>Message</b> <b>Type</b> 0x0002 and 0x0003) {{to get the}} {{topology}} {{database of}} another 1905.1 device ...|$|R
+50|$|The {{following}} is a table specifying the <b>message</b> <b>type</b> and processing code for each transaction type.|$|R
+50|$|Synchronization and {{management}} of a PTP system is achieved through the exchange of messages across the communications medium. To this end, PTP uses the following <b>message</b> <b>types.</b>|$|E
+50|$|Several {{extensions}} {{have been}} published, defining new ICMPv6 <b>message</b> <b>types</b> {{as well as}} new options for existing ICMPv6 <b>message</b> <b>types.</b> Neighbor Discovery Protocol (NDP) is a node discovery protocol in IPv6 which replaces and enhances functions of ARP. Secure Neighbor Discovery (SEND) is an extension of NDP with extra security. Multicast Listener Discovery (MLD) is used by IPv6 routers for discovering multicast listeners on a directly attached link, much like Internet Group Management Protocol (IGMP) is used in IPv4. Multicast Router Discovery (MRD) allows discovery of multicast routers.|$|E
+50|$|The {{third digit}} (3) {{is the type}} that denotes the {{specific}} message. There are several hundred <b>message</b> <b>types</b> across the categories. The type represented by 3 is a notification.|$|E
+5000|$|The Mandatory fixed part, when present, {{contains}} the mandatory, fixed-length parameters {{associated with the}} <b>message</b> <b>type.</b>|$|R
+5000|$|... byte #8 (0x14) = <b>Message</b> <b>Type</b> ID - 0x14 (20) defines an AMF0 encoded command message.|$|R
+5000|$|The Optional part, when present, {{contains}} the optional parameters permitted {{to be included}} in the <b>message</b> <b>type.</b>|$|R
+5000|$|From that time, {{the devices}} listens for {{messages}} on its private port but sends messages as broadcast on the xPL port 3865.The <b>message</b> <b>types</b> {{are one of}} the following: ...|$|E
+50|$|The Web Service Conversation Language (WSCL) {{proposal}} {{defines the}} overall {{input and output}} message sequences for one web service using a finite state automaton FSA over the alphabet of <b>message</b> <b>types.</b>|$|E
+5000|$|TTEthernet expands {{classical}} Ethernet with {{services to}} meet time-critical, deterministic or safety-relevant conditions. It {{claims to be}} compatible with IEEE 802.3 standards and integrate with other Ethernet networks.Three <b>message</b> <b>types</b> are provided: ...|$|E
+5000|$|... {{the sender}} checks the <b>message</b> <b>type</b> against the {{permission}} data before {{sending a message}} to the receiver.|$|R
+50|$|Uniquely {{defines the}} {{function}} and format of each GSM L3 <b>message.</b> The <b>message</b> <b>type</b> is mandatory for all messages. The {{meaning of the}} <b>message</b> <b>type</b> is therefore dependent on the protocol (the same value may have different meanings in different protocols) and direction (the same value may have different meanings in the same protocol, when sent from the Mobile Station to the network and when sent from the network to the Mobile Station).|$|R
+5000|$|The {{content in}} the body of the message is {{specified}} by (tag 35, [...] ) <b>message</b> <b>type</b> defined in the header [...]|$|R

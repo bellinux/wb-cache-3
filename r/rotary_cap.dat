@@ -1,0 +1,3 @@
+1|0|Public
+40|$|This paper {{presents}} the simulation model {{for determining the}} intervals of preven-tive replacement of the system's components. The application of the Weibull distri-bution has been proved to be efficient in the approximation of many forms of delay, while numerical integration supported by Simpson formula and Fortran software {{has been applied to}} simulate optimum values of the preventive replacement of the components of the <b>rotary</b> <b>cap</b> burner SAACKE, type SKV 60 in the marine steam boiler, {{on the basis of the}} available data gathered through the system's exploitation and through empirical assumptions. Key words: maintenance, optimum interval, simulation, preventive replacemen...|$|E
+

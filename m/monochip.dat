@@ -1,0 +1,3 @@
+1|0|Public
+40|$|The {{digital control}} of commutationless DC drives using a minimal {{hardware}} structure is discussed. The authors present a low-cost <b>monochip</b> microcomputer-based control system for speed regulation and current limitation {{that has no}} current measurement of a DC motor fed by thyristors in discontinuous current-mode operation. With this system, {{the speed of the}} drive is controlled by a classical algorithm using the Z transform. The thyristor firing is synchronized with the power supply and controlled by internal interrupts of the microcomputer. The current limitation is augmented by an estimation algorithm using an experimental simplified model. Results are presented for a 1 kW DC driv...|$|E
+

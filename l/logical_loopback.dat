@@ -1,0 +1,3 @@
+2|0|Public
+2500|$|If {{two or more}} routers {{tie with}} the highest {{priority}} setting, the router sending the Hello with the highest RID (Router ID) wins. NOTE: a RID is the highest <b>logical</b> (<b>loopback)</b> IP address configured on a router, if no logical/loopback IP address is set then the Router uses the highest IP address configured on its active interfaces. [...] (e.g. 192.168.0.1 would be higher than 10.1.1.2).|$|E
+

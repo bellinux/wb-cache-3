@@ -1,0 +1,3 @@
+1|0|Public
+50|$|A bias tee is a three-port network {{used for}} setting the DC bias point of some {{electronic}} components without disturbing other components. The bias tee is a diplexer. The <b>low-frequency</b> <b>port</b> {{is used to}} set the bias; the high-frequency port passes the radio-frequency signals but blocks the biasing levels; the combined port connects to the device, which sees both the bias and RF. It is called a tee because the 3 ports are often arranged {{in the shape of}} a T.|$|E
+

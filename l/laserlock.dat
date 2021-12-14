@@ -1,0 +1,5 @@
+3|0|Public
+50|$|This {{software}} blacklisting {{can be seen}} as a countermeasure to virtual CD/CD burning software used {{to bypass}} copy protection schemes such as SecuROM, SafeDisc and <b>LaserLock.</b>|$|E
+50|$|<b>LaserLock</b> is a CD-ROM copy {{restriction}} technique. It {{works by}} including a hidden directory on the CD which contains corrupted data. When the disk is copied, the read device encounters errors {{due to the}} hidden directory.|$|E
+50|$|DAEMON tools was {{originally}} a successor of Generic SafeDisc emulator and incorporated {{all of its}} features. The program claims {{to be able to}} defeat most copy protection schemes such as SafeDisc and SecuROM. It is currently compatible with Windows XP, Windows Vista, Windows 7, Windows 8, and Windows 10. DAEMON Tools has a special mode for proper operation of copies of discs with advanced protection (SafeDisc, SecuRom and <b>LaserLock,</b> CDCOPS, StarForce and Protect CD), which are used on some discs with games.|$|E
+

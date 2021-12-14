@@ -1,0 +1,3 @@
+1|0|Public
+40|$|We {{describe}} two optical systems {{based on}} the radial basis function approach to pattern classification. An <b>optical-disk-based</b> <b>system</b> for handwritten character recognition is demonstrated. The optical system computes the Euclidean distance between an unknown input and 650 stored patterns at a demonstrated rate of 26, 000 pattern comparisons/s. The ultimate performance of this system is limited by optical-disk resolution to 10 ^ 11 binary operations/s. An adaptive system is also presented that facilitates on-line learning and provides additional robustness...|$|E
+

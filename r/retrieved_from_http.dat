@@ -1,0 +1,37 @@
+0|10000|Public
+50|$|A {{subscriber}} first <b>retrieves</b> content <b>from</b> an <b>HTTP</b> resource (URL) by requesting it {{from the}} webserver. The subscriber then inspects {{the contents of the}} response, and if it references a hub, the subscriber can subscribe to that resource's URL (it's called a 'topic' by the spec) on that hub. The subscriber needs to run a web accessible server so that hubs can directly notify it when any of its subscribed topics have updated, using a webhook mechanism.|$|R
+50|$|Data-retrieval: the HIVE {{is capable}} of <b>retrieving</b> data <b>from</b> {{a variety of sources}} such as local, {{cloud-based}} or network storage, sequencing instruments, and <b>from</b> <b>http,</b> ftp and sftp repositories. Additionally, HIVE implements the sophisticated handshake protocols with existing large scale data platforms such as NIH/NCBI to download large amounts of reference genomic or sequence read data on behalf of users in an easy and accurate manner.|$|R
+40|$|HTTP Server is a {{computer}} programs that serves webpage content to clients. A webpage is a document or resource of information that is suitable for the World Wide Web and can be accessed through a web browser and displayed on {{a computer}} screen. This information is usually in HTML format, and may provide navigation to other webpage’s via hypertext links. WebPages may be <b>retrieved</b> <b>from</b> a local computer or <b>from</b> a remote <b>HTTP</b> Server. WebPages are requested and served <b>from</b> <b>HTTP</b> Servers using Hypertext Transfer Protocol (HTTP). WebPages may consist of files of static or dynamic text stored within the HTTP Server's file system. Client-side scripting can make WebPages more responsive to user input once in the client browser. This paper encompasses the creation of HTTP server program using java language, which is basically supporting for HTML and JavaScript...|$|R
+5000|$|Direct HTTP request data: {{directly}} comes <b>from</b> <b>HTTP</b> request messages (HTTP request headers).|$|R
+5000|$|... mod_evasive - protects your site(s) <b>from</b> <b>HTTP</b> DoS/DDoS {{attacks and}} brute force attacks ...|$|R
+5000|$|... mod_proxy {{can help}} to improve LAMP {{security}} [...] or to strip SSL <b>from</b> <b>HTTP</b> requests.|$|R
+50|$|Orbit Downloader {{supports}} downloading <b>from</b> <b>HTTP,</b> HTTPS, FTP, Metalink, RTSP, MMS and RTMP protocols. Orbit Downloader supports Internet Explorer, Maxthon, Mozilla Firefox and Opera web browsers.|$|R
+5000|$|HTTP security: some balancers {{can hide}} HTTP error pages, remove server {{identification}} headers <b>from</b> <b>HTTP</b> responses, and encrypt cookies so that end users cannot manipulate them.|$|R
+50|$|Xangati WebApp Suite gathers metrics <b>from</b> <b>HTTP,</b> HTML and CSS Web Servers about {{end-users}} {{and their}} applications, and correlates those metrics with interactions {{collected from the}} IT infrastructure.|$|R
+5000|$|Users {{will often}} attempt to bypass this system by {{removing}} the h <b>from</b> <b>http</b> in URLs, encouraging others to copy and paste the link, thus avoiding the referral page. For example, [...] would become [...]|$|R
+30|$|Then, {{we moved}} on to the flow-based method, i.e., {{combined}} monitoring of cipher suite lists from SSL/TLS handshakes in HTTPS connections and the User-Agents <b>from</b> <b>HTTP</b> connections. We analyzed a 1 -h sample of peak network traffic from our campus network and selected the hosts which initiated both HTTP and HTTPS connections. User-Agents <b>from</b> <b>HTTP</b> connections and cipher suite lists (from HTTPS connections) from the same client created a new pair. We observed 10, 890 clients communicating on both protocols {{in a short period of}} time, 305 unique cipher suite lists, and 5043 unique User-Agents. In total, we derived 12, 832 unique pairs during the measurement.|$|R
+50|$|Users {{are able}} to specify the media type in order to limit the types seen. This allows them to access {{information}} in the member’s URL record and response headers <b>from</b> <b>http</b> servers {{and access to the}} member’s data in a single API call.|$|R
+5000|$|Let's Encrypt, {{launched}} in April 2016, provides free and automated SSL/TLS certificates to websites. According to the Electronic Frontier Foundation, [...] "Let's Encrypt" [...] will make switching <b>from</b> <b>HTTP</b> to HTTPS [...] "as easy as issuing one command, or clicking one button." ...|$|R
+50|$|Lukunosh, a dialect of Mortlockese, {{has nine}} vowel phonemes and 15 {{consonant}} phonemes.Table <b>retrieved</b> <b>from</b> pg.100 of Odango, Emmerson.Table <b>retrieved</b> <b>from</b> pg.96 of Odango, Emmerson.|$|R
+3000|$|The “Breakdancers” and “Ballet” test video {{sequences}} can be <b>retrieved</b> <b>from</b> the “[URL] The “Interview” and “Orbit” test video sequences can be <b>retrieved</b> <b>from</b> the “[URL] [...]...|$|R
+3000|$|A new art. L 313 – 20 {{has been}} {{introduced}} for the ‘passeport talent’ in the migration law. <b>Retrieve</b> <b>from</b> [URL] For the debates in the Assemblee, <b>Retrieve</b> <b>from</b> [URL] [...]...|$|R
+3000|$|Hi-net {{data are}} <b>retrieved</b> <b>from</b> NIED webpage ([URL] JMA 2001 table is {{available}} in the JMA Web site ([URL] Daily precipitation data are <b>retrieved</b> <b>from</b> the JMA Web site ([URL] [...]...|$|R
+30|$|<b>Retrieved</b> <b>from</b> [URL] <b>retrieved</b> 7 June 2018; By October 2016 two {{investor}} {{residence permit}} were granted. It requires {{an investment of}} € 1, 250, 000. <b>Retrieved</b> <b>from</b> [URL] <b>retrieved</b> 7 June 2018.|$|R
+2500|$|... (n.d.). <b>Retrieved</b> <b>from</b> http://www.denverpost.com/business/ci_29225304/marijuana-has-huge-influence-colorado-tourism-state-survey ...|$|R
+50|$|Figures <b>retrieved</b> <b>from</b> Ethnologue.|$|R
+50|$|Credits <b>retrieved</b> <b>from</b> AllMusic.|$|R
+5000|$|<b>Retrieved</b> <b>from</b> [...] "http://nigerianwiki.com/wiki/Emmanuel_Osammor" ...|$|R
+5000|$|<b>Retrieved</b> <b>from</b> [...] "http://www.baseball-reference.com/bullpen/Pennsylvania-Ohio-Maryland_League" ...|$|R
+50|$|Adobe's RTMP (Real Time Messaging Protocol) is {{an example}} of a {{proprietary}} protocol for which no full public implementations exist. Thus capturing media encapsulated in RTMP streams is more difficult than <b>from</b> <b>HTTP</b> streams. However, nowadays there are more than a dozen programs that can download and capture RTMP streams; they are available for a variety of operating systems.|$|R
+50|$|All figures <b>retrieved</b> <b>from</b> Ethnologue.|$|R
+50|$|Information <b>retrieved</b> <b>from</b> USA Swimming.|$|R
+50|$|Squad <b>retrieved</b> <b>from</b> recent articles.|$|R
+25|$|<b>Retrieved</b> <b>from</b> 2008 NBC Olympics website.|$|R
+50|$|Information <b>retrieved</b> <b>from</b> Félix's {{official}} blog.|$|R
+50|$|Player {{movement}} <b>retrieved</b> <b>from</b> recent articles.|$|R
+5000|$|Bradley, J.(2012). Telemedicine. <b>Retrieved</b> <b>from</b> http://www.caregiver.com ...|$|R
+5000|$|Job Enrichment. (n.d.). <b>Retrieved</b> <b>from</b> http://www.whatishumanresource.com/job-enrichment ...|$|R
+5000|$|Milk Banks. (n.d.). <b>Retrieved</b> <b>from</b> http://www.amazingbreastmilk.nhs.uk/support/milk-banks/ ...|$|R
+25|$|All monthly averages were <b>retrieved</b> <b>from</b> RealClearPolitics.|$|R
+30|$|All {{sequences}} were <b>retrieved</b> <b>from</b> NCBI database.|$|R
+50|$|All monthly averages were <b>retrieved</b> <b>from</b> RealClearPolitics.|$|R

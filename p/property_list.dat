@@ -1,0 +1,37 @@
+75|2149|Public
+2500|$|The COBWEB data {{structure}} is a hierarchy (tree) wherein each node represents a given concept. [...] Each concept represents a set (actually, a multiset or bag) of [...] objects, each object being {{represented as a}} binary-valued <b>property</b> <b>list.</b> The data associated with each tree node (i.e., concept) are the integer property counts for the objects in that concept. [...] For example, (see figure), let a concept [...] contain the following four objects (repeated objects being permitted).|$|E
+5000|$|In the macOS, iOS, NeXTSTEP, and GNUstep {{programming}} frameworks, <b>property</b> <b>list</b> {{files are}} files that store serialized objects. <b>Property</b> <b>list</b> files use the filename extension [...]plist, {{and thus are}} {{often referred to as}} p-list files.|$|E
+5000|$|The <b>property</b> <b>list</b> file is the {{standard}} configuration file format in Mac OS X (as well as in iOS, NeXTSTEP, GNUstep and Cocoa applications). <b>Property</b> <b>list</b> files use the filename extension [...]plist, and thus are {{often referred to as}} p-list files.|$|E
+50|$|A {{number of}} <b>properties,</b> <b>listed</b> below, obtain.|$|R
+40|$|X private X building(s) 2 {{buildings}} public-local district sites public-State site structures public-Federal structure objects object 2 Total Name {{of related}} multiple <b>property</b> <b>listing</b> (Enter "N/A " if property {{is not part}} of a multiple <b>property</b> <b>listing.)</b> Number of contributing resources previously listed in the National Registe...|$|R
+25|$|These result {{follow from}} the <b>properties</b> <b>listed</b> above.|$|R
+50|$|In Mac OS X 10.0, the NeXTSTEP format was deprecated, {{and a new}} XML format was introduced, with {{a public}} DTD defined by Apple. The XML format {{supports}} non-ASCII characters and storing NSValue objects (which, unlike GNUstep's ASCII <b>property</b> <b>list</b> format, Apple's ASCII <b>property</b> <b>list</b> format does not support).|$|E
+50|$|<b>Property</b> <b>list,</b> or plist, another {{associative}} array format used in Lisp.|$|E
+5000|$|A <b>{{property}}</b> <b>list</b> is {{a special}} list where the odd number items are property names, and the even are property values. There are three commands to process <b>property</b> <b>list.</b> pprop :listname :name :valueto add a new pair to the list remprop :listname :name :valueto remove a pair from the list show gprop :listname :nameto get the matching value from the list ...|$|E
+5000|$|<b>Properties</b> <b>listed</b> on the National Register of Historic Places: ...|$|R
+5000|$|... #Subtitle level 3: <b>Properties</b> <b>listed</b> in the {{register}} by address ...|$|R
+50|$|The <b>properties</b> <b>listed</b> here {{refer to}} the {{straight-chain}} alkanes (or: n-alkanes).|$|R
+50|$|Another human-readable {{serialization}} {{format is}} the <b>property</b> <b>list</b> format used in NeXTSTEP, GNUstep, and macOS Cocoa.|$|E
+5000|$|<b>Property</b> <b>List</b> Tools allows native AppleScript parsing of the Mac OS X Property Lists file type (".plist" [...] files).|$|E
+50|$|One {{limitation}} of the original NeXT <b>property</b> <b>list</b> format is {{that it could not}} represent an NSValue (number, boolean, etc.) object.|$|E
+5000|$|It is {{composed}} of residential contributing <b>properties</b> <b>listed</b> on the [...]|$|R
+5000|$|Other <b>properties</b> <b>listed</b> on the National Register in {{the town}} are: ...|$|R
+5000|$|<b>Properties</b> <b>listed</b> on the New Mexico State Register of Cultural Properties: ...|$|R
+50|$|Removal of {{jewellery}} unless requested otherwise by the deceased's family. If left on it must {{be documented}} in the patient's <b>property</b> <b>list.</b>|$|E
+5000|$|The widget's <b>Property</b> <b>List</b> (called “Info.plist”), {{which is}} what Dashboard uses to load the widget’s {{properties}} (i.e.: name, version, HTML file, etc.) ...|$|E
+50|$|The first documentarily mention {{occurred}} in the year 1160 in the <b>property</b> <b>list</b> of the St. Ludger's Abbey in Helmstedt (Kloster St. Ludgeri).|$|E
+50|$|Newport has ten <b>properties</b> <b>listed</b> on the National Register of Historic Places.|$|R
+5000|$|Barnsdall has two <b>properties</b> <b>listed</b> on the National Register of Historic Places: ...|$|R
+5000|$|There are 213 {{contributing}} <b>properties</b> <b>listed</b> on the registration. Among them are: ...|$|R
+5000|$|XML and JSON {{property}} {{lists are}} hand-editable in any text editor. Additionally, Apple provides support in Xcode for editing property lists in a hierarchical viewer/editor {{that can handle}} plists formatted in binary or XML, but not JSON. As of [...] Mac OS X 10.4, Apple provides an AppleScript interface for reading <b>property</b> <b>list</b> files through the System Events application. As of Mac OS X 10.5, Apple provides an AppleScript interface for editing, creating and writing <b>property</b> <b>list</b> files as well.|$|E
+50|$|Denkmalgeschütztes Objekt is a {{protected}} object {{listed on the}} Austrian cultural <b>property</b> <b>list</b> as kept by the Federal Monuments Office known as the Bundesdenkmalamt (BDA).|$|E
+50|$|<b>Property</b> <b>list</b> {{files are}} often used to store a user's settings. They are also used to store {{information}} about bundles and applications, a task served by the resource fork in the old Mac OS.|$|E
+5000|$|The <b>property</b> was <b>listed</b> on the National Register of Historic Places on July 20, 2011, {{as part of}} a {{multiple}} <b>property</b> <b>listing</b> study titled [...] "North Central Phoenix Farmhouses and Rural Estate Homes, 1895-1959, MPS".|$|R
+30|$|This {{is shown}} by {{straightforward}} application of the <b>properties</b> <b>listed</b> in section 2.|$|R
+50|$|The Wigner {{distribution}} function has several evident <b>properties</b> <b>listed</b> {{in the following}} table.|$|R
+5000|$|C/C++, C#, Clojure, CSS, CoffeeScript, GitHub Flavored Markdown, Go, Git, HTML, JavaScript, Java, JSON, Julia, Less, Make, Mustache, Objective-C, PHP, Perl, <b>Property</b> <b>List</b> (Apple), Python, Ruby on Rails, Ruby, Sass, Shell script, Scala, SQL, TOML, XML, YAML ...|$|E
+50|$|Since {{the data}} {{represented}} by property lists is somewhat abstract, the underlying file format {{can be implemented}} many ways. Namely, NeXTSTEP used one format to represent a <b>property</b> <b>list,</b> and the subsequent GNUstep and macOS frameworks introduced differing formats.|$|E
+50|$|A <b>property</b> <b>list</b> (plist) {{is a type}} of {{file that}} launchd uses for program configuration. When launchd scans a folder, or a job is {{submitted}} with launchctl, it reads a plist file that describes how the program is to be run.|$|E
+50|$|GNUstep {{can also}} {{read and write}} <b>property</b> <b>lists</b> in the formats used by macOS.|$|R
+5000|$|... #Caption: Distinctive emblem for {{the most}} {{important}} cultural <b>property,</b> <b>listed</b> in the Hague Convention ...|$|R
+5000|$|Kellys work {{includes}} three <b>properties</b> <b>listed</b> on the U.S. National Register of Historic Places: ...|$|R

@@ -1,0 +1,37 @@
+203|151|Public
+2500|$|In {{the late}} 1960s IBM {{provided}} {{a program called}} FORMAT for generating printed documents on any computer capable of running Fortran IV. [...] Written by Gerald M. Berns, FORMAT was described in his paper [...] "Description of FORMAT, a Text-Processing Program" [...] (Communications of the ACM, Volume 12, Number 3, March, 1969) as [...] "a production program which facilitates the editing and printing of 'finished' documents directly on the printer of a relatively small (64k) computer system. It features good performance, totally free-form input, very flexible formatting capabilities including up to eight columns per page, automatic capitalization, aids for index construction, and a minimum of nontext [...] items." [...] Input was normally on punched cards or magnetic tape, with up to 80capital letters and non-alphabetic characters per card. The limited typographical controls available were implemented by control sequences; for example, letters were automatically converted to lower case unless they followed a full stop, that is, the [...] "period" [...] character. Output could be printed on a typical <b>line</b> <b>printer</b> in all-capitals — or in upper and lower case using a special ("TN") printer chain — or could be punched as a paper tape which could be printed, in better than <b>line</b> <b>printer</b> quality, on a Flexowriter. A workalike program with some improvements, DORMAT, was developed and used at University College London.|$|E
+5000|$|... #Caption: IBM 1403 <b>line</b> <b>printer,</b> {{the classic}} <b>line</b> <b>printer</b> of the {{mainframe}} era.|$|E
+50|$|IBM 1403 <b>Line</b> <b>Printer.</b>|$|E
+50|$|<b>Line</b> <b>printers</b> {{were the}} IBM 1403 and the slower IBM 1443.|$|R
+50|$|Overstrike {{was also}} used to {{simulate}} boldface letters with <b>line</b> <b>printers.</b>|$|R
+50|$|Early {{mainframe}} printers were {{so called}} <b>line</b> <b>printers.</b> <b>Line</b> <b>printers</b> provided {{only a very}} limited set of commands to control how the paper was advanced when print lines were printed. The application writing reports, list, etc. to be printed had to include those commands in the print data. These single character print commands are called printer control characters.|$|R
+50|$|IBM 2203 <b>Line</b> <b>Printer.</b>|$|E
+50|$|<b>Line</b> <b>printer</b> (device 18).|$|E
+5000|$|... #Subtitle level 2: Typewriter and <b>line</b> <b>printer</b> approximations ...|$|E
+5000|$|The [...] "long" [...] line of 132 CPL {{comes from}} <b>line</b> <b>printers</b> of mainframes.|$|R
+50|$|<b>Line</b> <b>printers</b> print {{an entire}} line of text at a time. Four {{principal}} designs exist.|$|R
+5000|$|Print {{services}} provide centralized {{background printing}} on terminal <b>printers,</b> <b>line</b> <b>printers,</b> or Terminal Server printers.|$|R
+5000|$|... #Caption: Fragment of <b>line</b> <b>printer</b> drumshowing [...] "%" [...] characters.|$|E
+5000|$|Parallel <b>Line</b> <b>Printer,</b> type DP MZ-4: 128 characters/line, 600 lines/min.|$|E
+5000|$|... {{providing}} graphical output, with <b>line</b> <b>printer</b> and pen plotter graphics.|$|E
+5000|$|Overstrike {{was used}} on <b>line</b> <b>printers</b> {{for the same}} goal. This contributed to {{standardization}} of such characters as [...]|$|R
+5000|$|IBM 2821 Control Unit, used {{to attach}} card readers, punches and <b>line</b> <b>printers</b> to IBM System/360 and IBM System/370 {{computers}} ...|$|R
+5000|$|Printer usage—charged as {{pages of}} paper and lines of output (for <b>line</b> <b>printers)</b> or pages and sheets (for page printers) ...|$|R
+5000|$|... #Caption: 1403 <b>line</b> <b>printer</b> opened, with 729 tape {{drives in}} the background.|$|E
+50|$|A new workfile {{is created}} and the virtual <b>line</b> <b>printer</b> unit 0 {{assigned}} to it.|$|E
+5000|$|The {{number of}} columns of a <b>Line</b> <b>printer</b> {{printing}} in landscape mode on 14-inch paper.|$|E
+50|$|<b>Line</b> matrix <b>printers</b> {{can print}} text, bar codes and graphics. <b>Line</b> matrix <b>printers</b> were {{originally}} popularized by the mini-computer craze and continued its growth as {{a bar code}} printer. Today they are sold in virtually {{every corner of the}} world and while they print as rapidly as <b>line</b> <b>printers,</b> they can print bar codes and other graphics as well. When implemented as impact printers, they can be the least expensive to operate per page.|$|R
+50|$|Because all {{of these}} {{printing}} methods were noisy, <b>line</b> <b>printers</b> of all designs were enclosed in sound-absorbing cases of varying sophistication.|$|R
+5000|$|Hard-Copy Devices - {{incremental}} plotters; <b>line</b> <b>printers</b> with 64- or 96-characters sets, 165 characters {{per second}} or 356 lines per minute ...|$|R
+5000|$|Fast <b>line</b> <b>printer</b> DP 2440 (up to 700 lines/min, 64-character set, 132 {{characters}} per line) ...|$|E
+5000|$|... #Caption: A {{type bar}} <b>line</b> <b>printer</b> was {{incorporated}} in the IBM 402 and 403 accounting machines.|$|E
+5000|$|... #Caption: 1403 {{high speed}} <b>line</b> <b>printer</b> (At House for the History of IBM Data Processing (closed), Sindelfingen) ...|$|E
+5000|$|<b>Line</b> <b>printers</b> {{were the}} PRT300 train printer capable of {{printing}} at 1150 {{lines per minute}} (lpm) and the PRT201 at 1200 lpm.|$|R
+50|$|While the H200 {{supported}} {{operation with}} just a console, card reader and punch like the IBM 1401, the generic Input-Output instructions also supported <b>line</b> <b>printers</b> and magnetic tape drives.|$|R
+50|$|The {{high-speed}} {{motion of}} the paper often developed large electrostatic charges. <b>Line</b> <b>printers</b> frequently {{used a variety of}} discharge brushes and active (corona discharge-based) static eliminators to discharge these accumulated charges.|$|R
+5000|$|... 501 - <b>Line</b> <b>Printer,</b> {{rotating}} drum, 136 character wide printer. Note {{that there}} were no lower case letters.|$|E
+5000|$|ICL 667 <b>line</b> <b>printer</b> (725 lines {{per minute}} for 64-character set or 880 {{lines per minute}} for 50-character set) ...|$|E
+50|$|Some {{computer}} systems used similar labels on other serial media, for example punched card decks and sometimes <b>line</b> <b>printer</b> output.|$|E
+50|$|Peripheral devices included: {{high-density}} magnetic tapes, high-speed <b>line</b> <b>printers,</b> fast {{card and}} paper tape readers and punches to high-capacity random access magnetic disc memories, optical scanners, self-correcting orthoscanners and data communications devices.|$|R
+50|$|Energy consumption, noise, etc. Some page {{printers}} are {{too noisy}} {{to stay in}} the near vicinity of the users, even if page printers are quieter than the old <b>line</b> <b>printers</b> and other impact printers.|$|R
+5000|$|Yet another {{convention}} {{common on}} early <b>line</b> <b>printers</b> left zero unornamented but added a tail or hook to the letter-O {{so that it}} resembled an inverted Q (like U+213A ℺) or cursive capital letter-O (...) [...]|$|R

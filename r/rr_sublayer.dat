@@ -1,0 +1,4 @@
+2|1|Public
+5000|$|The MS initiates {{the radio}} channel {{establishment}} procedure and {{is assigned to}} a Dm channel, usually an SDCCH. This establishes the connection in the L3 <b>RR</b> <b>sublayer.</b>|$|E
+5000|$|Radio Resource (<b>RR).</b> This <b>sublayer</b> {{manages the}} {{assignment}} and release of logical channels {{on the radio}} link. It is normally terminated in the base station controller (BSC).|$|R
+

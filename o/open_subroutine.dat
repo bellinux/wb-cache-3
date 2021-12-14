@@ -1,0 +1,3 @@
+1|0|Public
+50|$|The name {{subprogram}} {{suggests a}} subroutine behaves {{in much the}} same way as a computer program that is used as one step in a larger program or another subprogram. A subroutine is often coded so that it can be started (called) several times and from several places during one execution of the program, including from other subroutines, and then branch back (return) to the next instruction after the call, once the subroutine's task is done. Maurice Wilkes, David Wheeler, and Stanley Gill are credited with the invention of this concept, which they termed a closed subroutine, contrasted with an <b>open</b> <b>subroutine</b> or macro.|$|E
+

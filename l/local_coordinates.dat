@@ -1,0 +1,37 @@
+717|1759|Public
+25|$|An {{explicit}} formula in <b>local</b> <b>coordinates</b> is possible.|$|E
+25|$|Intuitively, {{this means}} that we can express the jet of a curve through p {{in terms of its}} Taylor series in <b>local</b> <b>coordinates</b> on M.|$|E
+25|$|<b>Local</b> <b>{{coordinates}}</b> mean {{a set of}} coordinates {{that travel}} with the particle, and have orientation determined by {{the path of the}} particle. Unit vectors are formed as shown in the image at right, both tangential and normal to the path. This coordinate system sometimes is referred to as intrinsic or path coordinates or nt-coordinates, for normal-tangential, referring to these unit vectors. These coordinates are a very special example of a more general concept of <b>local</b> <b>coordinates</b> from the theory of differential forms.|$|E
+5000|$|Given a <b>local</b> <b>coordinate</b> system [...] for [...] on an -manifold [...] with metric tensor , the tangent vectorsdefine a <b>local</b> <b>coordinate</b> {{basis of}} the tangent space to [...] at each point of its domain.|$|R
+5000|$|... #Subtitle level 2: Fictitious {{forces in}} a <b>local</b> <b>coordinate</b> system ...|$|R
+2500|$|... {{where the}} overline denotes the Christoffel symbols in the [...] {{coordinate}} system. [...] Note that the Christoffel symbol does not transform as a tensor, {{but rather as}} an object in the jet bundle. More precisely, the Christoffel symbols {{can be considered as}} functions on the jet bundle of the frame bundle of , independent of any <b>local</b> <b>coordinate</b> system. Choosing a <b>local</b> <b>coordinate</b> system determines a local section of this bundle, which can then be used to pull back the Christoffel symbols to functions on , though of course these functions then depend on the choice of <b>local</b> <b>coordinate</b> system.|$|R
+25|$|D is an {{elliptic}} {{differential operator}} from E to F. So in <b>local</b> <b>coordinates</b> {{it acts as}} a differential operator, taking smooth sections of E to smooth sections of F.|$|E
+25|$|If M and N are two smooth manifolds, how do {{we define}} the jet of a {{function}} ? We could perhaps attempt to define such a jet by using <b>local</b> <b>coordinates</b> on M and N. The disadvantage {{of this is that}} jets cannot thus be defined in an equivariant fashion. Jets do not transform as tensors. Instead, jets of functions between two manifolds belong to a jet bundle.|$|E
+25|$|Thus the {{differential}} is a linear transformation, between tangent spaces, associated to the smooth map φ at each point. Therefore, in some chosen <b>local</b> <b>coordinates,</b> it {{is represented by}} the Jacobian matrix of the corresponding smooth map from Rm to Rn. In general {{the differential}} need not be invertible. If φ is a local diffeomorphism, then the pushforward at x is invertible and its inverse gives the pullback of T'φ(x)N.|$|E
+5000|$|... #Subtitle level 3: The {{geodesic}} equation in a <b>local</b> <b>coordinate</b> system ...|$|R
+25|$|For clarity we now {{show the}} {{following}} examples in <b>local</b> <b>coordinate</b> notation.|$|R
+5000|$|The {{coordinating}} {{bodies are}} the <b>Local</b> <b>Coordinating</b> Council (district) and Neighborhood Boards ...|$|R
+25|$|A (topological) {{surface is}} a topological {{space in which}} every point has an open {{neighbourhood}} homeomorphic to some open subset of the Euclidean plane E2. Such a neighborhood, together with the corresponding homeomorphism, {{is known as a}} (coordinate) chart. It is through this chart that the neighborhood inherits the standard coordinates on the Euclidean plane. These coordinates are known as <b>local</b> <b>coordinates</b> and these homeomorphisms lead us to describe surfaces as being locally Euclidean.|$|E
+2500|$|We work in <b>local</b> <b>coordinates</b> at a point. Consider a {{vector field}} ...|$|E
+2500|$|To deal {{directly}} with this issue, <b>local</b> <b>coordinates</b> are preferable, as discussed next.|$|E
+5000|$|If C is {{the origin}} of a <b>local</b> <b>coordinate</b> system L, {{attached}} to the body, ...|$|R
+5000|$|... is {{the usual}} <b>local</b> <b>coordinate</b> system with unit vector [...] {{directed}} away from the Earth ...|$|R
+2500|$|In <b>local</b> <b>coordinate</b> notation, for a type (r,s) tensor field , the Lie {{derivative}} along [...] is ...|$|R
+2500|$|If (x, v) are <b>local</b> <b>coordinates</b> for TM, {{the vector}} field has the {{expression}} ...|$|E
+2500|$|In <b>local</b> <b>coordinates,</b> every contact one-form on Jr+1(π) can {{be written}} as a linear {{combination}} ...|$|E
+2500|$|... where LX is the Lie {{derivative}} {{along the}} vector field X. In <b>local</b> <b>coordinates,</b> one obtains ...|$|E
+30|$|The {{orientation}} of Object X at its assembled {{state in the}} assembled structure’s <b>local</b> <b>coordinate</b> system.|$|R
+5000|$|The bundle metric allows an {{orthonormal}} <b>local</b> <b>coordinate</b> {{frame to}} be defined on E, so that ...|$|R
+5000|$|Let [...] be a <b>local</b> <b>coordinate</b> {{system on}} the base {{manifold}} [...] with [...] and let ...|$|R
+2500|$|The Euler–Lagrange {{equations}} {{of motion}} for the functional E are then given in <b>local</b> <b>coordinates</b> by ...|$|E
+2500|$|Using <b>local</b> <b>coordinates</b> on M, we {{can write}} the {{geodesic}} equation (using the summation convention) as ...|$|E
+2500|$|The Lie bracket of X and Y at p {{is given}} in <b>local</b> <b>coordinates</b> by the formula ...|$|E
+5000|$|... {{where the}} [...] is the <b>local</b> <b>coordinate</b> frame. The {{conjugate}} momentum to X has the expression ...|$|R
+2500|$|... {{define a}} <b>local</b> <b>coordinate</b> {{basis of the}} tangent space to [...] at each point of its domain.|$|R
+2500|$|Given a <b>local</b> <b>coordinate</b> system [...] for [...] on an -manifold [...] with metric tensor , the tangent vectors ...|$|R
+2500|$|Note that πr [...] o [...] jrσ = idW, so jrσ {{really is}} a section. In <b>local</b> <b>coordinates,</b> jrσ is given by ...|$|E
+2500|$|Combining the {{definitions}} of the gradient and divergence, the formula for the Laplace–Beltrami operator applied to a scalar function ƒ is, in <b>local</b> <b>coordinates</b> ...|$|E
+2500|$|... is {{a system}} of <b>local</b> <b>coordinates</b> of M in a {{neighborhood}} of p. [...] Submersions form {{the foundation of the}} theory of fibrations and fibre bundles.|$|E
+3000|$|... denotes its {{representation}} {{relative to}} the <b>local</b> <b>coordinate</b> system attached to bee k. Moreover, the term x [...]...|$|R
+5000|$|... {{making up}} the <b>local</b> <b>coordinate</b> system (of which [...] are {{illustrated}} in figure 2) relative the [...] are ...|$|R
+2500|$|Consider a {{location}} with latitude φ on a sphere that is rotating around the north-south axis. A <b>local</b> <b>coordinate</b> system {{is set up}} with the x axis horizontally due east, the y axis horizontally due north and the z axis vertically upwards. The rotation vector, velocity of movement and Coriolis acceleration expressed in this <b>local</b> <b>coordinate</b> system (listing components in the order east (e), north (n) and upward (u)) are: ...|$|R

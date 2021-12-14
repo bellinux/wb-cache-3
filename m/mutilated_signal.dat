@@ -1,0 +1,3 @@
+1|0|Public
+40|$|The authors {{describe}} an algorithm for the interpolation of burst errors in discrete-time signals {{that can be}} modeled as being band-limited. The algorithm correctly restores a <b>mutilated</b> <b>signal</b> that is indeed band-limited. The behavior of the algorithm when applied to signals containing noise or out-of-band components can be analyzed satisfactorily {{with the aid of}} asymptotic properties of the discrete prolate spheroidal sequences and wave functions. The effect of windowing can also be described conveniently in terms of these sequences and functions...|$|E
+

@@ -1,0 +1,3 @@
+1|0|Public
+50|$|This is {{the measure}} of the torque {{produced}} by a stepper motor when it is operated without an acceleration state. At low speeds the stepper motor can synchronize itself with an applied step frequency, and this <b>pull-in</b> <b>torque</b> must overcome friction and inertia. It is important {{to make sure that the}} load on the motor is frictional rather than inertial as the friction reduces any unwanted oscillations.The pull-in curve defines an area called the start/stop region. Into this region, the motor can be started/stopped instantaneously with a load applied and without loss of synchronism.|$|E
+
